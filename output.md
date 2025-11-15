@@ -1,8 +1,23 @@
+# Página 0
+Lámina de El Hierofante
+---
+
 # Página 1
 
-EL LIBRO
-de
-THOTH
+El libro de Thoth
+
+Un breve ensayo sobre el Tarot de los Antiguos Egipcios
+
+The Eqyuinox Vol. III, No. 5
+escrito por
+El maestro Therion
+Artista ejecutora: Frieda Harris
+
+An Ixviii Sol en 0°0'0" Aries
+21 de marzo de 1944 e.v. 5.29 p.m.
+
+Luis Cárcamo, Editor
+Madrid
 
 ---
 
@@ -10,393 +25,307 @@ THOTH
 
 Título en inglés: The Book of Thoth
 
+Traducido por: Ralph Horton y Alberto Ocharan
+Traducción: Luis Cárcamo, editor
+Digitalización: Brydo
+
+© de las láminas: Samuel Weiser, Inc.
+© de las láminas de la edición española: Luis Cárcamo, editor
+
+I.S.B.N.: 84-7627-003-8
+Déposito Legal: M-40435-1985
+
+Impreso por Luis Cárcamo, editor
+San Raimundo, 58
+Madrid 20
 ---
 
 # Página 3
+¡ARRE Y-SO!
 
-CONTENIDO
-páginas
-PRIMERA PARTE: TEORÍA DEL TAROT 3-47
-I. Contenido del Tarot; Origen del Tarot; Teoría de las Correspon-
-dencias del Tarot; Pruebas de la Tradición Iniciática del Tarot; l.Eli-
-phaz Lévi y el Tarot; 2. El Tarot en los Manuscritos Cifrados; 3.El Ta-
-rot y la «Orden Hermética de la Golden Dawn»; 4. Naturaleza de las
-Pruebas; Sumario de las Cuestiones Tratadas.
-II. El Tarot y la Santa Qábalah; El Arreglo de Napoles; El Tarot y la
-Fórmula del Tetragrammaton; El Tarot y los Elementos; Las Veintidós
-Claves, Atu, o Triunfos del Tarot.
-III. El Tarot y el Universo; Teorías de los Antiguos; El Árbol de la
-Vida; El Arreglo de Napoles; El Tarot y el Árbol de la Vida; Los Atu de
-Tahuti; Los Números Romanos de los Triunfos; El Tarot y la Magia; El
-Shemhamphorasch y el Tarot; El Tarot y la Magia Ceremonial; El Ta-
-rot y el Animismo; Las Cartas del Tarot como Seres Vivos.
-SEGUNDA PARTE: LOS ATU (CLAVES O TRIUNFOS) 53-145
-0. El Loco; La Fórmula del Tetragrammaton; El «Hombre Verde» del
-Festival de Primavera. «El Loco de Abril». El Espíritu Santo; El «Gran
-Loco» de los Celtas (Dalua); «El Rico Pescador»: Percivale; El Cocodri-
-lo (Mako, hijo de Set, o Sebek); Hoor-Pa-Kraat; Zeus Arrhenothelus;
-Dionisos Zagreus. Bacchus Diphues; Baphomet; Sumario.
-[ hasta XXI. El Prestidigitador; La Gran Sacerdotisa; La Emperatriz; El
+La Gran Rueda de Samsara.
 
+La Rueda de la Ley (Dhamma).
+
+La Rueda del Taro.
+
+La Rueda de los Cielos.
+
+La Rueda de la Vida. 
+
+Todas estas Ruedas son una, pero de todas ellas sólo la Rueda del TARO te sirve conscientemente.
+
+¡Medita, oh hombre, largo y tendido en esta Rueda haciéndoola girar en tu mente!
+
+Que tu tarea sea ésta, ver cómo cada carta emana necesariamente de todas las demás, incluso en el orden debido desde El Loco hasta el Diez de Monedas.
+
+Y que entonces, una vez conocida perfectamente La Rueda del Destino, percibas AQUELLA Voluntad que la puso en movimiento en un principio. [No hay principio ni fin.]
+
+Y he aquí que habrás cruzado el Abismo.
+
+El libro de las Mentiras ΚΕΦ.OH.
 ---
 
 # Página 4
 
-Apéndice. El Loco—1. Silencio; 2. De Sapientia et Stultia; De Oráculo
-Summo; 3. De Herba Sanctissima Arábica; De Quibusdam Mysteriis,
-Quae Vidi; De Quodam Modo Meditationis; Sequitur De Hac Re;
-Conclusio De Hoc Modo Sanctitatis; De Via Sola Solis. El Mago—
-1. De Mercurio; 2. El Señor de Ilusión; Fortuna, R.O.T.A.—La Rue-
-da; Lascivia, Babalón; Arte, La Flecha; El Universo. El Universo Vir-
-gen.
-TERCERA PARTE: LAS CARTAS DE FIGURA 151-173
-Observaciones Generales; Características Generales de los Cuatro Dig-
-natarios; Descripción Resumida de las Dieciséis Cartas de Figura; Ca-
-ballero de Varas; Reina de Varas; Príncipe de Varas; Princesa de Varas;
-Caballero de Copas; Reina de Copas; Príncipe de Copas; Princesa de
-Copas; Caballero de Espadas; Reina de Espadas; Príncipe de Espadas;
-Princesa de Espadas; Caballero de Discos; Reina de Discos; Príncipe de
-Discos; Princesa de Discos.
-CUARTA PARTE: LAS CARTAS MENORES 179-220
-Los Cuatro Ases; Los Cuatro Doses; Los Cuatro Treses; Los Cuatro
-Cuatros; Los Cuatro Cincos; Los Cuatro Seises; Los Cuatro Sietes; Los
-Cuatro Ochos; Los Cuatro Nueves; Los Cuatro Dieces. La Raíz de los
-Poderes de Fuego—As de Varas; Dominio—Dos de Varas; Virtud—
-Tres de Varas; Consumación—Cuatro de Varas; Lucha—Cinco de Va-
-ras; Victoria—Seis de Varas; Valor—Siete de Varas; Rapidez—Ocho de
-Varas; Fuerza—Nueve de Varas; Opresión—Diez de Varas; La Raíz de
-los Poderes de Agua—As de Copas; Amor—Dos de Copas; Abundan-
-cia—Tres de Copas; Lujo—Cuatro de Copas; Frustración—Cinco de
-Copas; Placer—Seis de Copas; Corrupción—Siete de Copas; Indolen-
-cia—Ocho de Copas; Felicidad—Nueve de Copas; Saciedad—Diez de
-Copas; La Raíz de los Poderes de Aire—As de Espadas; Paz—Dos de
-Espadas; Aflicción—Tres de Espadas; Tregua—Cuatro de Espadas; De-
-rrota—Cinco de Espadas; Ciencia—Seis de Espadas; Futilidad—Siete
-de Espadas; Interferencia—Ocho de Espadas; Crueldad—Nueve de Es-
-Xll
-padas; Ruina—Diez de Espadas; La Raíz de los Poderes de Tierra—As
-de Discos; Cambio—Dos de Discos; Trabajos—Tres de Discos; Poder—
-Cuatro de Discos; Preocupación—Cinco de Discos; Éxito—Seis de Dis-
-cos; Fracaso—Siete de Discos; Prudencia—Ocho de Discos; Ganan-
-cia—Nueve de Discos; Riqueza—Diez de Discos.
-INVOCACIÓN Y MNEMOTECNIA 221-223
-APÉNDICE A 253-264
-Funcionamiento del Tarot; El Significador; Primera Operación; Segunda
-Operación—Desarrollo de la Cuestión; Tercera Operación—Nuevo De-
-sarrollo de la Cuestión; Cuarta Operación—Penúltimos Aspectos de la
-Cuestión; Quinta Operación—Resultado Final. Caracteres Generales de
-los Triunfos en la Adivinación.
-APÉNDICE B 269-294
-Correspondencias; La Escala Clave; La Atribución General del Tarot; El
-Cosmos Chino; El Caduceo; Los Números de los Planetas; Los Elemen-
-tos y sus Símbolos; Las Armas Elementales; La Esfinge; Las Dignidades
-Esenciales de los Planetas; Tablas de Correspondencia; Las Cuatro Es-
-calas de Color; Atribuciones de las Cartas de Figura; Atribuciones de
-las Cartas Menores; Las Dignidades Esenciales de los Planetas; La Tri-
-ple Trinidad de los Planetas; Las Triplicidades del Zodíaco; Las Tria-
-das Vitales.
-LISTA DE ILUSTRACIONES
-ILUSTRACIONES AL TEXTO
-Xlll
+CONTENIDO
 
+PRIMERA PARTE: TEORÍA DEL TAROT
+3-47
+
+I. Contenido del Tarot; Origen del Tarot; Teoría de las Correspondencias del Tarot; Pruebas de la Tradición Iniciática del Tarot; l.Eliphaz Lévi y el Tarot; 2. El Tarot en los Manuscritos Cifrados; 3. El Tarot y la «Orden Hermética de la Golden Dawn»; 4. Naturaleza de las Pruebas; Sumario de las Cuestiones Tratadas.
+
+II. El Tarot y la Santa Qábalah; El Arreglo de Napoles; El Tarot y la Fórmula del Tetragrammaton; El Tarot y los Elementos; Las Veintidós Claves, Atu, o Triunfos del Tarot.
+
+III. El Tarot y el Universo; Teorías de los Antiguos; El Árbol de la Vida; El Arreglo de Napoles; El Tarot y el Árbol de la Vida; Los Atu de Tahuti; Los Números Romanos de los Triunfos; El Tarot y la Magia; El Shemhamphorasch y el Tarot; El Tarot y la Magia Ceremonial; El Tarot y el Animismo; Las Cartas del Tarot como Seres Vivos.
+
+SEGUNDA PARTE: LOS ATU (CLAVES O TRIUNFOS)
+53-145
+
+0. El Loco; La Fórmula del Tetragrammaton; El «Hombre Verde» del Festival de Primavera. «El Loco de Abril». El Espíritu Santo; El «Gran Loco» de los Celtas (Dalua); «El Rico Pescador»: Percivale; El Cocodrilo (Mako, hijo de Set, o Sebek); Hoor-Pa-Kraat; Zeus Arrhenothelus; Dionisos Zagreus. Bacchus Diphues; Baphomet; Sumario.
+
+##
+##[ hasta XXI. El Prestidigitador; La Gran Sacerdotisa; La Emperatriz; El ## Hay que revisar esto, en mi copia está incompleto
+##
 ---
 
 # Página 5
 
-LAMINAS
+Apéndice. El Loco—1. Silencio; 2. De Sapientia et Stultia; De Oráculo Summo; 3. De Herba Sanctissima Arábica; De Quibusdam Mysteriis, Quae Vidi; De Quodam Modo Meditationis; Sequitur De Hac Re; Conclusio De Hoc Modo Sanctitatis; De Via Sola Solis. El Mago—1. De Mercurio; 2. El Señor de Ilusión; Fortuna, R.O.T.A.—La Rueda; Lascivia, Babalón; Arte, La Flecha; El Universo. El Universo Virgen.
+
+TERCERA PARTE: LAS CARTAS DE FIGURA
+151-173
+
+Observaciones Generales; Características Generales de los Cuatro Dignatarios; Descripción Resumida de las Dieciséis Cartas de Figura; Caballero de Varas; Reina de Varas; Príncipe de Varas; Princesa de Varas; Caballero de Copas; Reina de Copas; Príncipe de Copas; Princesa de Copas; Caballero de Espadas; Reina de Espadas; Príncipe de Espadas; Princesa de Espadas; Caballero de Discos; Reina de Discos; Príncipe de Discos; Princesa de Discos.
+
+CUARTA PARTE: LAS CARTAS MENORES
+179-220
+
+Los Cuatro Ases; Los Cuatro Doses; Los Cuatro Treses; Los Cuatro Cuatros; Los Cuatro Cincos; Los Cuatro Seises; Los Cuatro Sietes; Los Cuatro Ochos; Los Cuatro Nueves; Los Cuatro Dieces. La Raíz de los Poderes de Fuego—As de Varas; Dominio—Dos de Varas; Virtud—Tres de Varas; Consumación—Cuatro de Varas; Lucha—Cinco de Varas; Victoria—Seis de Varas; Valor—Siete de Varas; Rapidez—Ocho de Varas; Fuerza—Nueve de Varas; Opresión—Diez de Varas; La Raíz de los Poderes de Agua—As de Copas; Amor—Dos de Copas; Abundancia—Tres de Copas; Lujo—Cuatro de Copas; Frustración—Cinco de Copas; Placer—Seis de Copas; Corrupción—Siete de Copas; Indolencia—Ocho de Copas; Felicidad—Nueve de Copas; Saciedad—Diez de Copas; La Raíz de los Poderes de Aire—As de Espadas; Paz—Dos de Espadas; Aflicción—Tres de Espadas; Tregua—Cuatro de Espadas; Derrota—Cinco de Espadas; Ciencia—Seis de Espadas; Futilidad—Siete de Espadas; Interferencia—Ocho de Espadas; Crueldad—Nueve de Espadas; Ruina—Diez de Espadas; La Raíz de los Poderes de Tierra—As de Discos; Cambio—Dos de Discos; Trabajos—Tres de Discos; Poder—Cuatro de Discos; Preocupación—Cinco de Discos; Éxito—Seis de Discos; Fracaso—Siete de Discos; Prudencia—Ocho de Discos; Ganancia—Nueve de Discos; Riqueza—Diez de Discos.
+
+INVOCACIÓN Y MNEMOTECNIA
+221-223
+
+APÉNDICE A 
+253-264
+Funcionamiento del Tarot; El Significador; Primera Operación; Segunda Operación—Desarrollo de la Cuestión; Tercera Operación—Nuevo Desarrollo de la Cuestión; Cuarta Operación—Penúltimos Aspectos de la Cuestión; Quinta Operación—Resultado Final. Caracteres Generales de los Triunfos en la Adivinación.
+
+APÉNDICE B
+269-294
+
+Correspondencias; La Escala Clave; La Atribución General del Tarot; El Cosmos Chino; El Caduceo; Los Números de los Planetas; Los Elementos y sus Símbolos; Las Armas Elementales; La Esfinge; Las Dignidades Esenciales de los Planetas; Tablas de Correspondencia; Las Cuatro Escalas de Color; Atribuciones de las Cartas de Figura; Atribuciones de las Cartas Menores; Las Dignidades Esenciales de los Planetas; La Triple Trinidad de los Planetas; Las Triplicidades del Zodíaco; Las Triadas Vitales.
+
+LISTA DE ILUSTRACIONES
+ILUSTRACIONES AL TEXTO
+El Anillo Doble del Zodíaco; El Hexagrama Unicurso; Días de la Semana
+El Caduceo
+Las Dignidades Esenciales de los Planetas
+
+---
+
+# Página 6
+
+LAMINAS ## Aquí lo que se me ocurre es ir hipervinculando a cada lámina con su página
+
 El Hierofante portada
 interior
 I. Lascivia 51
 II. As de Espadas 149
 III. As de Discos 177
 IV. Los Amantes 227
-V. TRIUNFOS—El Loco; El Mago; La Sacerdotisa;
-La Emperatriz 229
-VI. TRIUNFOS—El Emperador; El Hierofante; Los Aman-
-tes; La Carroza 230
+V. TRIUNFOS—El Loco; El Mago; La Sacerdotisa; La Emperatriz 229
+VI. TRIUNFOS—El Emperador; El Hierofante; Los Amantes; La Carroza 230
 VII. TRIUNFOS—Ajuste; El Ermitaño; Fortuna; Lascivia 231
 VIII. TRIUNFOS—El Ahorcado; Muerte; Arte; El Diablo 232
 IX. TRIUNFOS—La Torre; La Estrella; La Luna; El Sol 233
 X. TRIUNFOS—El Aeón; El Universo 234
-XI. CARTAS DE FIGURA—Varas: Caballero; Reina; Prín-
-cipe; Princesa 235
-XII. CARTAS DE FIGURA—Copas: Caballero; Reina; Prín-
-cipe; Princesa 236
-XIII. CARTAS DE FIGURA—Espadas: Caballero; Reina;
-Príncipe; Princesa 237
-XIV. CARTAS DE FIGURA—Discos: Caballero; Reina; Prín-
-cipe; Princesa 238
-XV. CARTAS MENORES—Varas: As de Varas; Dominio;
-Virtud; Consumación 239
-XVI. CARTAS MENORES—Varas: Lucha; Victoria; Valor;
-Rapidez 240
-XVII. CARTAS MENORES—Varas: Fuerza; Opresión. Copas:
-As de Copas; Amor 241
-XVIII. CARTAS MENORES—Copas: Abundancia; Lujo; Frus-
-tración; Placer 242
-XIX. CARTAS MENORES—Copas: Corrupción; Indolencia;
-Felicidad; Saciedad 243
-xiv
-XX. CARTAS MENORES—Espadas: As de Espadas; Paz;
-Aflicción; Tregua 244
-XXI. CARTAS MENORES—Espadas: Derrota; Ciencia; Futi-
-lidad; Interferencia 245
-XXII. CARTAS MENORES—Espadas: Crueldad; Ruina. Dis-
-cos: As de Discos; Cambio 246
-XXIII. CARTAS MENORES—Discos: Trabajos; Poder; Preo-
-cupación; Éxito 247
-XXIV. CARTAS MENORES—Discos: Fracaso; Prudencia; Ga-
-nancia; Riqueza 248
+XI. CARTAS DE FIGURA—Varas: Caballero; Reina; Príncipe; Princesa 235
+XII. CARTAS DE FIGURA—Copas: Caballero; Reina; Príncipe; Princesa 236
+XIII. CARTAS DE FIGURA—Espadas: Caballero; Reina; Príncipe; Princesa 237
+XIV. CARTAS DE FIGURA—Discos: Caballero; Reina; Príncipe; Princesa 238
+XV. CARTAS MENORES—Varas: As de Varas; Dominio; Virtud; Consumación 239
+XVI. CARTAS MENORES—Varas: Lucha; Victoria; Valor; Rapidez 240
+XVII. CARTAS MENORES—Varas: Fuerza; Opresión. Copas: As de Copas; Amor 241
+XVIII. CARTAS MENORES—Copas: Abundancia; Lujo; Frustración; Placer 242
+XIX. CARTAS MENORES—Copas: Corrupción; Indolencia; Felicidad; Saciedad 243
+XX. CARTAS MENORES—Espadas: As de Espadas; Paz; Aflicción; Tregua 244
+XXI. CARTAS MENORES—Espadas: Derrota; Ciencia; Futilidad; Interferencia 245
+XXII. CARTAS MENORES—Espadas: Crueldad; Ruina. Discos: As de Discos; Cambio 246
+XXIII. CARTAS MENORES—Discos: Trabajos; Poder; Preocupación; Éxito 247
+XXIV. CARTAS MENORES—Discos: Fracaso; Prudencia; Ganancia; Riqueza 248
 XXV. El Sol 251
-XXVI. ElUniverso 267
+XXVI. El Universo 267
 XXVII. La Escala Clave 270
 XXVIII.Atribución General 272
 XXIX. El Cosmos Chino 274
 XXX. La Rosa y la Cruz 277
-XXXI. Los Números de los Planetas; Los Elementos y sus Sím-
-bolos; Las Armas Elementales; La Esfinge 281
-\v
-
----
-
-# Página 6
-
-NOTA BIBLIOGRÁFICA
-Aleister Crowley fue iniciado en la Orden Hermética de la Golden
-Dawn el 18 de noviembre de 1898 e.v.; adoptó el lema mágico «Perdura-
-bo»—«Perduraré hasta el fin»'.
-En febrero del año siguiente alcanzó el grado de Practicus y, consi-
-guientemente, se le confiaron las atribuciones secretas del Tarot, especial-
-mente las de los Atu (véanse págs. 5-10).
-Trabajó asiduamente con estos Manuscritos en gran medida bajo ins-
-trucción personal de G.H. Frater 7o = 4°, D.D.C.F. (S. Liddell Mathers) y
-V.H. Fratres 5o = 6o Iehi Aour (Alian Bennett, más tarde Sayadaw Ananda
-Metteya) y Voló Noscere (George Cecil Jones) en calidad de huésped o in-
-vitado de estos adeptos.
-Prosiguió por cuenta propia estos estudios durante su primer viaje alre-
-dedor del mundo en busca de la Sabiduría Oculta.
-El 8, 9 y 10 de abril de 1904 e.v. recibió el Libro de la Ley. Escogido
-por los Mestros para llevar a cabo su plan sublime, comenzó a preparar el
-camino para el establecimiento del Nuevo Aeón tal y como ellos le orde-
-naron (véase The Equinox of the Gods para un amplio y pormenorizado
-informe de este acontecimiento, el más importante de su carrera mágica).
-Consecuentemente, publicó las atribuciones anteriormente secretas del
-Tarot en el Libro 777.
-vel
-Prolegomena symbolica ad systemam Sceptico-mysticae viae ex-
-plicandae, fundamentum hieroglyphicum sanctissimorum
-scientiae summae.
-Siguiendo la tradición de Eliphaz Lévi, gran parte de sus escritos mági-
-cos están modelados o adornados por referencias al Tarot. Destacaremos a
-este respecto:
-Ambrosii Magi Hortus Rosarum (La Espada del Canto, 1904
-e.v.).
-El Mundo Despierto (Konx Om Pax, 1907 e.v.).
-Liber XXX Aerum vel Saeculi sub figura CCCCXVIII: de los
-Angeles de los 30 Aétiros, la Visión y la Voz (1911 e.v.).
-El Libro de las Mentiras (1913 e.v.).
-Magia en Teoría y Práctica (Libro 4, Parte III), 1929 e.v.
-Siguiendo las pautas de los Manuscritos de la Orden Hermética de la
-Golden Dawn, escribió un amplio ensayo sobre el Tarot en The Equinox,
-Vol. I, Nos. 7 y 8(1912 e.v.).
-Durante todo este tiempo, el Tarot fue su compañero, guía y objeto co-
-tidiano de investigación.
-Acertó a unir bajo el Esquema de la Santa Qábalah, del que el Tarot es
-el elemento particular más importante, todos los sistemas filosóficos y má-
-gicos, incluido el chino. Esto y su «Arreglo de Napoles» son indudable-
-mente sus éxitos eruditos más notables.
-Durante muchos años había deplorado la falta de un Texto auténtico
-del Tarot. Las barajas medievales están enormemente falseadas, compila-
-das por partidarios de sistemas políticos en boga o, si no, lejos de presentar
-la Verdad Antigua del Libro en un sistema coherente o en una forma de
-belleza lúcida.
-Ya desde los comienzos de su estudio había deseado fervientemente
-elaborar un Texto digno.
-El mismo Eliphaz Lévi había querido llevar a cabo una tarea semejan-
-te, pero sólo llegó a dejarnos dos Atu, «La Carroza» y «El Diablo». Mu-
-chos ocultistas más han abordado esta tarea, pero en muchos casos sin el
-conocimiento de las Atribuciones verdaderas. Sus tentativas han sido bur-
-das, disparatadas, lamentablemente grotescas.
-Pero los Maestros que habían vigilado, guiado y disciplinado al autor
-este libro reservaban una recompensa a sus esfuerzos. Le pusieron en con-
-tacto con una gran artista, Frieda Harris, quien, aunque carecía de un co-
-nocimiento previo del Tarot, poseía en su fuero interno el Espíritu Esen-
-cial del Libro.
+XXXI. Los Números de los Planetas; Los Elementos y sus Símbolos; Las Armas Elementales; La Esfinge 281
 
 ---
 
 # Página 7
 
-Juntos, aunaron sus fuerzas para la tremenda tarea de preparar las 78
-cartas del Libro de Thoth.
-La idea original de Crowley era la de elaborar una baraja según la tra-
-dición de los Editores Medievales, corregida a la luz de las descripciones
-dadas en The Equinox, I, vii y viii. Pero la señora Harris encontró ciertas
-dificultades técnicas, tales como la de introducir «10 manos angélicas ra-
-diantes» por todas partes, cosa que producía un efecto grotesco, y observó
-también que las enseñanzas de Crowley, con el curso de sus explicaciones,
-se adentraban en campos mucho más sublimes y profundos que los que
-presentaban los modelos asequibles. En consecuencia, ella obligó al «hom-
-bre más perezoso del mundo» a emprender lo que, a todos los efectos, es
-una obra original que incluye los últimos descubrimientos de la ciencia
-moderna, la matemática, la filosofía y la antropología; es decir, a reprodu-
-cir gráficamente toda su Mente Mágica sobre el armazón de la antigua tra-
-dición Qabalística. El aceptó esta tarea colosal; ello renovó su energía y
-entusiamo.
-Pero la tarea fue penosa: la obra que se preveía acabar en tres meses se
-alargó a cinco años. El acierto de la señora Harris como intérprete resulta
-increíble. Tenía que trabajar a partir de bocetos muy toscos hechos por
-Crowley y, a menudo, de simples descripciones o de una lectura entre lí-
-neas de las barajas antiguas. Ella dedicó todo su genio a la Obra. Cogió el
-ritmo con una rapidez asombrosa y, con una paciencia inagotable, se so-
-metió a las correcciones del fanático negrero a quien había invocado, pin-
-tando a menudo la misma carta hasta ocho veces antes de que cumpliera
-las meticulosas exigencias de Crowley.
-¡Que el apasionado «amor dirigido por la Voluntad» que ella ha depo-
-sitado en este Tesoro de Verdad y Belleza brote del Esplendor y Fuerza de
-su obra para iluminar el mundo! ¡Que este Tarot sirva de mapa a los osa-
-dos marineros del Nuevo Aeón y les guíe a través del Gran Mar del Enten-
-dimiento hasta la Ciudad de las Pirámides!
-S. H. Sóror l.W.E. 8° = 3o A.-.A.-.
-PROLOGO A LA EDICIÓN ESPAÑOLA
-El Libro de Thoth que ahora presentamos al público lector de habla
-castellana fue publicado en una edición de 200 ejemplares tres años antes
-de la muerte de Crowley. En él, tanto como a un estudio sistemático y una
-descripción exhaustiva de las cartas, asistimos a una exposición plagada de
-sugerencias de la filosofía mágica del autor.
-El siempre difícil equilibrio entre la Tradición, por la que a veces se ha
-abogado de manera hipócrita, y la «Revolución», a la que se suele invocar
-de forma harto inconsciente, queda patente en la obra de Crowley siempre
-que el lector encuentre y encarne el mensaje último. Quizá el Aeón de Ho-
-ras sirva para aclarar con su Espada Thelémica esta aparente contradic-
-ción. No obstante, a la Diosa de la Verdad, Maat, corresponde sintetizar la
-paradoja en una pluma de Justicia (Ajuste o Equilibrio, que diría Crow-
-ley).
-De denostada, criticada y despreciada, la figura del Maestro Therion ha
-pasado a ser vindicada de forma unánime por los nuevos hijos del Aeón.
-Sin embargo, difícilmente puede convertirse en gurú quien habla al núcleo
-del individuo proclamando el «Haz lo que quieras». Pues sí, empeño im-
-posible, quisiéramos resumir su pensamiento mágico, tendríamos que re-
-mitirnos a ese versículo del Libro de la Ley que dice: «Hacer lo que tú
-quieras será la totalidad de la ley. Hazla y nadie se opondrá».
-Como bien dice Lilly, espacio interior no hay más que uno, el propio.
-Y, aunque muchos los caminos de acceso, también una la llave, la Volun-
-tad Verdadera. A esta Voluntad Verdadera es a la que invoca Crowley
-para llevarnos por un camino, el suyo, a nuestro propio espacio interior.
-Comprendido esto, la tarea que queda por delante es la de encarnar esta
-nueva simbología adaptada al Nuevo Aeón. El modo de llevarla a cabo de-
-pende de lo que cada cual «quiera». Con todo, se nos sugiere que, como
-Rueda que es, pongamos a rodar el Tarot en nuestra mente, lo llenemos y
-vaciemos, como si de una vasija se tratara, de significados y relaciones
+NOTA BIBLIOGRÁFICA
+
+Aleister Crowley fue iniciado en la Orden Hermética de la Golden Dawn el 18 de noviembre de 1898 e.v.; adoptó el lema mágico «Perdurabo»—«Perduraré hasta el fin»[][1].
+
+En febrero del año siguiente alcanzó el grado de Practicus y, consiguientemente, se le confiaron las atribuciones secretas del Tarot, especialmente las de los Atu (véanse págs. 5-10).
+
+Trabajó asiduamente con estos Manuscritos en gran medida bajo instrucción personal de G.H. Frater 7o = 4°, D.D.C.F. (S. Liddell Mathers) y V.H. Fratres 5o = 6o Iehi Aour (Alian Bennett, más tarde Sayadaw Ananda Metteya) y Voló Noscere (George Cecil Jones) en calidad de huésped o invitado de estos adeptos.
+
+Prosiguió por cuenta propia estos estudios durante su primer viaje alrededor del mundo en busca de la Sabiduría Oculta.
+
+El 8, 9 y 10 de abril de 1904 e.v. recibió el Libro de la Ley. Escogido por los Mestros para llevar a cabo su plan sublime, comenzó a preparar el camino para el establecimiento del Nuevo Aeón tal y como ellos le ordenaron (véase The Equinox of the Gods para un amplio y pormenorizado
+informe de este acontecimiento, el más importante de su carrera mágica).
+
+Consecuentemente, publicó las atribuciones anteriormente secretas del Tarot en el Libro 777.
+
+vel
+Prolegomena symbolica ad systemam Sceptico-mysticae viae explicandae, fundamentum hieroglyphicum sanctissimorum scientiae summae.
+
+[1] Seguir su progreso en la Orden ayudará al lector a comprender su obra. Alcanzó el grado de Adeptus Minor 5° =6° (Fra: R.R. et A.C.) en enero de 1900 e.v. El de Adeptus Major 6° = 5°, con el lema OL SONUF VAORESAJI», en abril de 1904 e.v. El de Adeptus Exemptus 7° = 4°, con el lema OY MH, en 1909 e.v. (Fra: A∴A∴). El de Magister Templi 8° = 3°, el 3 de diciembre de 1910 e.v., asumiendo el lema que previamente (octubre de 1906 e.v.) se le había conferido, Vi Veri Vniversum Vivus Vici. Véase Liber 418 , págs. 73-76 et al. Ek de Magus 9° = 2°, con el lema ΤΟ ΜΕΤΑ θΗΡΙΟΝ (pág. xi), el 12 de octubre de 1915 e.v. 
+
+Siguiendo la tradición de Eliphaz Lévi, gran parte de sus escritos mágicos están modelados o adornados por referencias al Tarot. Destacaremos a este respecto:
+
+> Ambrosii Magi Hortus Rosarum (La Espada del Canto, 1904 e.v.).
+> El Mundo Despierto (Konx Om Pax, 1907 e.v.).
+> Liber XXX Aerum vel Saeculi sub figura CCCCXVIII: de los Angeles de los 30 Aétiros, la Visión y la Voz (1911 e.v.).
+> El Libro de las Mentiras (1913 e.v.).
+> Magia en Teoría y Práctica (Libro 4, Parte III), 1929 e.v.
+
+Siguiendo las pautas de los Manuscritos de la Orden Hermética de la Golden Dawn, escribió un amplio ensayo sobre el Tarot en The Equinox, Vol. I, Nos. 7 y 8(1912 e.v.).
+
+Durante todo este tiempo, el Tarot fue su compañero, guía y objeto cotidiano de investigación.
+
+Acertó a unir bajo el Esquema de la Santa Qábalah, del que el Tarot es el elemento particular más importante, todos los sistemas filosóficos y mágicos, incluido el chino. Esto y su «Arreglo de Napoles» son indudablemente sus éxitos eruditos más notables.
+
+Durante muchos años había deplorado la falta de un Texto auténtico del Tarot. Las barajas medievales están enormemente falseadas, compiladas por partidarios de sistemas políticos en boga o, si no, lejos de presentar la Verdad Antigua del Libro en un sistema coherente o en una forma de
+belleza lúcida.
+
+Ya desde los comienzos de su estudio había deseado fervientemente elaborar un Texto digno.
+
+El mismo Eliphaz Lévi había querido llevar a cabo una tarea semejante, pero sólo llegó a dejarnos dos Atu, «La Carroza» y «El Diablo». Muchos ocultistas más han abordado esta tarea, pero en muchos casos sin el conocimiento de las Atribuciones verdaderas. Sus tentativas han sido burdas, disparatadas, lamentablemente grotescas.
+
+Pero los Maestros que habían vigilado, guiado y disciplinado al autor este libro reservaban una recompensa a sus esfuerzos. Le pusieron en contacto con una gran artista, Frieda Harris, quien, aunque carecía de un conocimiento previo del Tarot, poseía en su fuero interno el Espíritu Esen-
+cial del Libro.
 
 ---
 
 # Página 8
 
-Negro. Todo se reduce a la ecuación y economía sublime del Universo:
-Cambio = Estabilidad.
-Una larga vida consagrada a la más noble de las Artes, la de conocerse
-a sí mismo, que es conocer a NEMO, se ve coronada con la baraja Crow-
-ley/Harris, compendio de la sabiduría de la Bestia y la intuición y entendi-
-miento de Sóror Tzaba. Los eternos Yang y Yin que se dan la mano para
-producir un nuevo Hijo Mágico. Y las condiciones para su alumbramiento
-no podían ser más felices; el valor qabalístico de Tzaba es 93, como Thele-
-ma, como Aiwaz. Y es también Tzaba la última shakti que asiste al Maes-
-tro en su iniciación última, la de Thanatos. Coincidencias todas ellas su-
-blimes. La serpiente que se muerde la cola.
-Como en el propio texto, abundan en las cartas digresiones y referen-
-cias que, inmersas en la tradición del Tarot, nos obligan a transitar por los
-caminos hermanos de la filosofía y la ciencia. Y si las divergencias de car-
-tas como El Loco, Lascivia o El Aeón respecto a las mismas cartas de otras
-barajas pueden prestarse a confusión en un primer momento, el estudio
-profundo nos revela una confirmación a nivel aeónico de la Tradición
-Una de la que proceden, la Santa Qábalah. Sirva ello para comprender
-también que la Fórmula del Tetragrammaton ha dejado de ser la rueda fa- I
-tal y cerrada de nacimiento y muerte para transformarse en una máquina
-autoalimentada de evolución abierta y vida.
-Como en Líber AL, Líber Aleph, El Libro de las Mentiras y tantos
-otros escritos en Clases A y B, se nos hace imperiosa en El Libro de Thoth
-la tarea de la lectura entre líneas. El afán de transmitir tanto obliga al lec-
-tor a ajustar todas las piezas de su maquinaria intelectual e intuitiva. Así
-pues, en el texto presente, de nada serviría una lectura precipitada. Case,
-por tanto, el lector cada reflexión y símbolo con su opuesto y complemen-
-tario; transmute lo grosero de lo evidente en material más perfecto al que,
-con el mismo método de apasionadas uniones, se vaya purificando gra-
-dualmente de toda escoria.
-I
+Juntos, aunaron sus fuerzas para la tremenda tarea de preparar las 78 cartas del Libro de Thoth.
+
+La idea original de Crowley era la de elaborar una baraja según la tradición de los Editores Medievales, corregida a la luz de las descripciones dadas en The Equinox, I, vii y viii. Pero la señora Harris encontró ciertas dificultades técnicas, tales como la de introducir «10 manos angélicas radiantes» por todas partes, cosa que producía un efecto grotesco, y observó también que las enseñanzas de Crowley, con el curso de sus explicaciones, se adentraban en campos mucho más sublimes y profundos que los que presentaban los modelos asequibles. En consecuencia, ella obligó al «hombre más perezoso del mundo» a emprender lo que, a todos los efectos, es
+una obra original que incluye los últimos descubrimientos de la ciencia moderna, la matemática, la filosofía y la antropología; es decir, a reproducir gráficamente toda su Mente Mágica sobre el armazón de la antigua tradición Qabalística. El aceptó esta tarea colosal; ello renovó su energía y entusiamo.
+
+Pero la tarea fue penosa: la obra que se preveía acabar en tres meses se alargó a cinco años. El acierto de la señora Harris como intérprete resulta increíble. Tenía que trabajar a partir de bocetos muy toscos hechos por Crowley y, a menudo, de simples descripciones o de una lectura entre líneas de las barajas antiguas. Ella dedicó todo su genio a la Obra. Cogió el ritmo con una rapidez asombrosa y, con una paciencia inagotable, se sometió a las correcciones del fanático negrero a quien había invocado, pintando a menudo la misma carta hasta ocho veces antes de que cumpliera las meticulosas exigencias de Crowley.
+
+¡Que el apasionado «amor dirigido por la Voluntad» que ella ha depositado en este Tesoro de Verdad y Belleza brote del Esplendor y Fuerza de su obra para iluminar el mundo! ¡Que este Tarot sirva de mapa a los osados marineros del Nuevo Aeón y les guíe a través del Gran Mar del Entendimiento hasta la Ciudad de las Pirámides!
+
+S. H. Sóror l.W.E. 8° = 3o A.-.A.-. ##alineado a la izquierda
+
+PROLOGO A LA EDICIÓN ESPAÑOLA
+
+El Libro de Thoth que ahora presentamos al público lector de habla castellana fue publicado en una edición de 200 ejemplares tres años antes de la muerte de Crowley. En él, tanto como a un estudio sistemático y una descripción exhaustiva de las cartas, asistimos a una exposición plagada de sugerencias de la filosofía mágica del autor.
+
+El siempre difícil equilibrio entre la Tradición, por la que a veces se ha abogado de manera hipócrita, y la «Revolución», a la que se suele invocar de forma harto inconsciente, queda patente en la obra de Crowley siempre que el lector encuentre y encarne el mensaje último. Quizá el Aeón de Horas sirva para aclarar con su Espada Thelémica esta aparente contradicción. No obstante, a la Diosa de la Verdad, Maat, corresponde sintetizar la paradoja en una pluma de Justicia (Ajuste o Equilibrio, que diría Crowley).
+
+De denostada, criticada y despreciada, la figura del Maestro Therion ha pasado a ser vindicada de forma unánime por los nuevos hijos del Aeón. Sin embargo, difícilmente puede convertirse en gurú quien habla al núcleo del individuo proclamando el «Haz lo que quieras». Pues sí, empeño imposible, quisiéramos resumir su pensamiento mágico, tendríamos que remitirnos a ese versículo del Libro de la Ley que dice: «Hacer lo que tú quieras será la totalidad de la ley. Hazla y nadie se opondrá».
+
+Como bien dice Lilly, espacio interior no hay más que uno, el propio. Y, aunque muchos los caminos de acceso, también una la llave, la Voluntad Verdadera. A esta Voluntad Verdadera es a la que invoca Crowley para llevarnos por un camino, el suyo, a nuestro propio espacio interior. Comprendido esto, la tarea que queda por delante es la de encarnar esta nueva simbología adaptada al Nuevo Aeón. El modo de llevarla a cabo depende de lo que cada cual «quiera». Con todo, se nos sugiere que, como Rueda que es, pongamos a rodar el Tarot en nuestra mente, lo llenemos y vaciemos, como si de una vasija se tratara, de significados y relaciones
 
 ---
 
 # Página 9
+##Creo que hay que revisar esta parte, no está completa
+Negro. Todo se reduce a la ecuación y economía sublime del Universo: Cambio = Estabilidad.
+
+Una larga vida consagrada a la más noble de las Artes, la de conocerse a sí mismo, que es conocer a NEMO, se ve coronada con la baraja Crowley/Harris, compendio de la sabiduría de la Bestia y la intuición y entendimiento de Sóror Tzaba. Los eternos Yang y Yin que se dan la mano para producir un nuevo Hijo Mágico. Y las condiciones para su alumbramiento no podían ser más felices; el valor qabalístico de Tzaba es 93, como Thelema, como Aiwaz. Y es también Tzaba la última shakti que asiste al Maestro en su iniciación última, la de Thanatos. Coincidencias todas ellas sublimes. La serpiente que se muerde la cola.
+
+Como en el propio texto, abundan en las cartas digresiones y referencias que, inmersas en la tradición del Tarot, nos obligan a transitar por los caminos hermanos de la filosofía y la ciencia. Y si las divergencias de cartas como El Loco, Lascivia o El Aeón respecto a las mismas cartas de otras barajas pueden prestarse a confusión en un primer momento, el estudio profundo nos revela una confirmación a nivel aeónico de la Tradición Una de la que proceden, la Santa Qábalah. Sirva ello para comprender también que la Fórmula del Tetragrammaton ha dejado de ser la rueda fatal y cerrada de nacimiento y muerte para transformarse en una máquina autoalimentada de evolución abierta y vida.
+
+Como en Líber AL, Líber Aleph, El Libro de las Mentiras y tantos otros escritos en Clases A y B, se nos hace imperiosa en El Libro de Thoth la tarea de la lectura entre líneas. El afán de transmitir tanto obliga al lector a ajustar todas las piezas de su maquinaria intelectual e intuitiva. Así pues, en el texto presente, de nada serviría una lectura precipitada. Case, por tanto, el lector cada reflexión y símbolo con su opuesto y complementario; transmute lo grosero de lo evidente en material más perfecto al que, con el mismo método de apasionadas uniones, se vaya purificando gradualmente de toda escoria.
+
+---
+
+# Página 10
+Lámina de Lust
+XI Lascivia
+---
+
+# Página 11
 
 AS DE ESPADAS
 
 ---
 
-# Página 10
+# Página 12
 
 AS DE DISCOS
 
 ---
 
-# Página 11
+# Página 13
 
-
+VI Los amantes
 
 ---
 
-# Página 12
+# Página 14
 
-.
+XIX El Sol
+
+---
+
+# Página 15
+
+XXI El Universo
+
+---
+
+# Página 16
+
+Lámina del reverso de las cartas
+
+---
+
+# Página 17
+
+
 PRIMERA PARTE
 TEORÍA DEL TAROT
 
 ---
 
-# Página 13
+# Página 18
 
-I
 CONTENIDO DEL TAROT
-EL TAROT es una baraja de setenta y ocho cartas. Tiene cuatro palos,
-como las actuales cartas de juego, las cuales derivan de él. Pero las cartas
-de Figura son cuatro en lugar de tres*. Consta además de veintidós cartas
-llamadas «Triunfos», cada una de las cuales es un dibujo simbólico al que
-se le asigna un título.
-A primera vista podríamos suponer que esta ordenación es arbitraria,
-sin embargo, no lo es. Viene exigida, como veremos más adelante, por la
-estructura del universo y, en particular, del Sistema Solar tal y como está
-simbolizado por la Santa Qábalah. Todo esto se explicará a su debido
-tiempo.
+
+EL TAROT es una baraja de setenta y ocho cartas. Tiene cuatro palos, como las actuales cartas de juego, las cuales derivan de él. Pero las cartas de Figura son cuatro en lugar de tres*. Consta además de veintidós cartas llamadas «Triunfos», cada una de las cuales es un dibujo simbólico al que se le asigna un título.
+
+A primera vista podríamos suponer que esta ordenación es arbitraria, sin embargo, no lo es. Viene exigida, como veremos más adelante, por la estructura del universo y, en particular, del Sistema Solar tal y como está simbolizado por la Santa Qábalah. Todo esto se explicará a su debido tiempo.
+
 ORIGEN DEL TAROT
-El origen de esta baraja de cartas es muy oscuro. Algunas autoridades
-pretenden remontarlo hasta los antiguos Misterios Egipcios; otras los fe-
-chan en una época mucho más tardía, el siglo XV e incluso el XVI. Pero
-el Tarot ya existía indudablemente en lo que puede denominarse forma
-clásica en el siglo XIV, pues aún se conservan barajas de esta fecha y la
-forma no ha variado en ningún aspecto notable desde aquel entonces.
-En la Edad Media estas cartas fueron muy utilizadas para predecir la
-fortuna, especialmente por parte de los gitanos, de modo que era habitual
-hablar del «Tarot de los Bohemios» o «Egipcios». Cuando se descubrió
-que los gitanos, a pesar de la etimología, eran de origen asiático, hubo
-quien trató de hallar el origen del Tarot en el arte y la literatura de la
-India.
-Aquí no necesitamos entrar en debate sobre estos temas en litigio1.
-* N. del TV. Es decir, Caballero, Reina, Príncipe y Princesa en lugar de Sota, Caballo y
-Rey.
-1 Algunos eruditos creen que la R.O.T.A. (Rota, rueda) estudiaba en el Collegium ad Spi-
-ritum —véase el Manifiesto «Fama Fraternitatis» de los Hermanos de la Rosa-Cruz— era el
-Tarot.
+
+El origen de esta baraja de cartas es muy oscuro. Algunas autoridades pretenden remontarlo hasta los antiguos Misterios Egipcios; otras los fechan en una época mucho más tardía, el siglo XV e incluso el XVI. Pero el Tarot ya existía indudablemente en lo que puede denominarse forma clásica en el siglo XIV, pues aún se conservan barajas de esta fecha y la forma no ha variado en ningún aspecto notable desde aquel entonces.
+
+En la Edad Media estas cartas fueron muy utilizadas para predecir la fortuna, especialmente por parte de los gitanos, de modo que era habitual hablar del «Tarot de los Bohemios» o «Egipcios». Cuando se descubrió que los gitanos, a pesar de la etimología, eran de origen asiático, hubo quien trató de hallar el origen del Tarot en el arte y la literatura de la India.
+
+Aquí no necesitamos entrar en debate sobre estos temas en litigio[][1].
+
+* N. del TV. Es decir, Caballero, Reina, Príncipe y Princesa en lugar de Sota, Caballo y Rey.
+
+[1] Algunos eruditos creen que la R.O.T.A. (Rota, rueda) estudiaba en el Collegium ad Spiritum —véase el Manifiesto «Fama Fraternitatis» de los Hermanos de la Rosa-Cruz— era el Tarot.
 
 ---
 
 # Página 14
 
 TEORÍA DE LAS CORRESPONDENCIAS DEL TAROT
-El presente ensayo nada tiene que ver con la tradición y la autoridad.
-La Teoría de la Relatividad de Einstein no depende del hecho de que,
-cuando su teoría fue puesta a prueba, fuera confirmada. La única teoría de
-esencial interés acerca del Tarot es la de que es una admirable ilustración
+
+El presente ensayo nada tiene que ver con la tradición y la autoridad. La Teoría de la Relatividad de Einstein no depende del hecho de que, cuando su teoría fue puesta a prueba, fuera confirmada. La única teoría de esencial interés acerca del Tarot es la de que es una admirable ilustración
 simbólica del Universo basada en los datos de la Santa Qábalah.
+
 Convendría que, más adelante, describiéramos con cierta amplitud la
 Santa Qábalah y discutiéramos detalles relevantes. La parte de ella que
 aquí nos interesa se llama Gematría, ciencia en la que el valor numérico
@@ -424,11 +353,12 @@ meros y crearan la lengua hebrea sobre esta serie de manipulaciones. Esta
 teoría es claramente contraria no sólo al sentido común, sino a los hechos
 históricos y a todo lo que sabemos sobre la formación del lenguaje. Con
 todo, la evidencia es igualmente fuerte en el sentido de que hay algo, un
-* N. del T.: Notariqón es una de las tres partes en las que se divide la Qábalah literal. Las
-otras dos son: Gematría y Ternura.
-4
 algo nada desdeñable, que excluye todas las teorías razonables de coinci-
 dencia en la correspondencia entre palabras y números.
+
+* N. del T.: Notariqón es una de las tres partes en las que se divide la Qábalah literal. Las
+otras dos son: Gematría y Ternura.
+
 Es un hecho innegable que cualquier número no es solamente uno más
 que el número anterior y uno menos que el posterior, sino que es una idea
 individual independiente, una cosa en sí misma, una substancia espiritual,
@@ -437,31 +367,36 @@ sino mucho más. Sus relaciones puramente matemáticas son indudable-
 mente las leyes de su ser, pero ellas no constituyen el número, de la misma
 forma que las leyes físico-químicas de reacción de la anatomía humana no
 nos dan una imagen completa del hombre.
+
 PRUEBAS DE LA TRADICIÓN INICIATICA DEL TAROT
+
 1. Eliphaz Lévi y el Tarot
+
 Aunque los orígenes del Tarot sean totalmente oscuros, hay una parte
 muy interesante de la historia moderna, historia bien presente en la me-
 moria del hombre, que es sumamente significativa y que, a medida que se
 desarrolle la tesis, veremos que la corrobora de una forma harto notable.
+
 A mediados del siglo XIX apareció un gran Qabalista y erudito que
 aún incomoda a los espíritus más torpes con su hábito de divertirse a sus
 expensas tomándoles el pelo postumamente. Se llamaba Alphonse Louis
 Constant y era Abate de la Iglesia Romana. Como «nom-de-guerre» tradu-
 jo su nombre al hebreo, Eliphas Lévi Zahed, conociéndosele hoy general-
 mente por Eliphas Lévi.
+
 Además de un gran esteta literario y un bromista de la variedad llama-
 da «Pince sans rire», Eliphas Lévi fue un filósofo y un artista y, al ser un
 artista y un profundo simbolista, se sintió desmedidamente atraído por el
 Tarot. Encontrándose en Inglaterra, propuso a Kenneth Mackenzie, famo-
 so erudito del ocultismo y alto grado francmasón, reconstituir y publicar
 una baraja diseñada científicamente.
+
 En sus obras encontramos versiones nuevas y propias de los triunfos ti-
 tulados La Carroza y El Diablo. Según parece, sabía que el Tarot era real-
 mente una forma pictórica del Árbol Qabalístico de la Vida, que es la base
 de toda la Qábalah, hasta tal punto que escribió sus obras sobre este prin-
 cipio fundamental. Se propuso escribir un tratado completo sobre la Ma-
 gia. Dividió el tema en dos partes —Teoría y Práctica— a las que llamó
-5
 
 ---
 
@@ -471,12 +406,15 @@ Dogma y Ritual. Cada parte consta de veintidós capítulos, uno para cada
 uno de los veintidós triunfos, y cada capítulo versa sobre el tema represen-
 tado por el dibujo expuesto por el triunfo. La importancia de la exactitud
 de la correspondiencia aparecerá a su debida hora.
+
 Y aquí se nos plantea una pequeña complicación. Los capítulos se co-
 rresponden, aunque de manera equivocada, y esto sólo se ha de explicar
 por el hecho de que Lévi se sentía comprometido por su juramento origi-
 nal de secreto a la Orden de Iniciados que le había confiado los secretos
 del Tarot.
+
 2. El Tarot en los Manuscritos cifrados
+
 En los años del Renacimiento Mágico Francés de mediados del siglo
 XIX surgió en Inglaterra un movimiento de características semejantes.
 Centraba su interés en las religiones antiguas y en sus tradiciones iniciáti-
@@ -499,15 +437,17 @@ asunto, se nos hace completamente evidente que la atribución equivocada
 de las letras que hizo Lévi era deliberada, que él conocía la atribución co-
 rrecta y consideraba deber suyo ocultarla. (¡Camuflar sus capítulos le costó
 muchas dificultades!)
+
 Se decía que los manuscritos cifrados databan de los primeros años del
 siglo XIX, y hay una nota en una página que parece ser de puño y letra de
 Eliphas Lévi. Es muy probable que Lévi tuviera acceso a este manuscrito
 en la visita que hizo a Bulwer Lytton en Inglaterra. En cualquier caso,
-6
+
 como se señaló antes, Lévi da continuas muestras de que conocía las atri-
 buciones correctas (con la excepción, claro está, de Tzaddi; el porqué lo
 veremos más adelante) y es evidente que intentó utilizarlas sin revelar in-
 debidamente ningún secreto que hubiera jurado no desvelar.
+
 Tan pronto como uno posee las atribuciones verdaderas de estos triun-
 fos, el Tarot cobra vida. Uno se queda intelectualmente anonadado ante su
 exactitud. Todas las dificultades creadas por las atribuciones tradicionales
@@ -515,21 +455,26 @@ tal como las entiende el erudito ordinario desaparecen al instante. Por esta
 razón nos sentimos inclinados a dar crédito a la pretensión de los promul-
 gadores del manuscrito cifrado en el sentido de que ellos eran los guardia-
 nes de una tradición de Verdad.
+
 3. El Tarot y la Orden Hermética de la Golden Dawn
+
 Debemos hacer ahora un comentario sobre la historia de la Orden Her-
 mética de la Golden Dawn, la sociedad reconstituida por el Dr. Westcott y
 sus colegas, con el fin de ofrecer pruebas adicionales de la autenticidad de
 la pretensión de los promulgadores del manuscrito cifrado.
+
 Entre estos documentos, aparte de la atribución del Tarot, había algu-
 nos rituales esquemáticos que daban a entender que contenían los secretos
 de la iniciación; se mencionaba como autoridad emanante el nombre (con
 dirección en Alemania) de una tal Fraülein Sprengel. El Dr. Westcott le
 escribió y, con su permiso, se fundó, en 1886, la Orden de la Golden
 Dawn.
+
 (La G.-.D.-. es simplemente un nombre para la Orden Externa o Preli-
 minar de la R.R. et A.C., que es a su vez una manifestación externa de la
-A:.A.:., que es la verdadera Orden de Maestros1 —véase Magick, págs.
+A:.A.:., que es la verdadera [Orden de Maestros][1] —véase Magick, págs.
 229-244.)
+
 El genio que hizo esto posible fue un individuo llamado Samuel Lid-
 dell Mathers. Después de un tiempo, Frl. Sprengel murió; una carta dirigi-
 da a ella que solicitaba un reconocimiento más avanzado fue respondida
@@ -537,14 +482,6 @@ por uno de sus colaboradores. Esta carta informaba al Dr. Westcott de la
 muerte de Frl. Sprengel, añadiendo que el autor de la misma y sus compa-
 ñeros no habían aprobado jamás la decisión de Frl. Sprengel de autorizar
 la puesta en funcionamiento de un grupo operativo, pero que, a tenor de la
-1 Un grupo insolente, advenedizo y farsante que se autodenomina «Orden de Maestros
-Ocultos» ha aparecido y desaparecido recientemente.
-7
-
----
-
-# Página 16
-
 gran reverencia y estima en que se la tenía, se habían abstenido de presen-
 tarle una oposición abierta. Después pasaba a decir que «esta correspon-
 dencia debe cesar ahora», pero que si querían un conocimiento más avan-
@@ -552,6 +489,10 @@ zado podrían conseguirá sin dificultad utilizando de la manera adecuada
 el conocimiento que ya poseían. Con otras palabras, debían emplear sus
 poderes mágicos para contactar con los Jefes Secretos de la Orden (éste es,
 casualmente, un modo de proceder completamente normal y tradicional).
+
+[1] Un grupo insolente, advenedizo y farsante que se autodenomina «Orden de Maestros
+Ocultos» ha aparecido y desaparecido recientemente.
+
 Poco después, Mathers, que había tramado hacerse con la Jefatura ope-
 rativa de la Orden, anunció que había efectuado este contacto, que los Je-
 fes Secretos le habían autorizado a proseguir la obra de la Orden como ca-
@@ -563,23 +504,22 @@ Estas circunstancias y una buena parte de intrigas mezquinas produjeron
 un grave descontento entre los miembros de la Orden. La opinión de Frl.
 Sprengel de que el trabajo en grupo en una Orden como ésta era posible
 resultó estar equivocada en este caso. La Orden se disolvió el año 1900.
+
 El objeto de estos datos es el de mostrar simplemente que, en aquella
 época, la principal preocupación de todos los miembros serios de la Orden
 era la de ponerse en contacto con los Jefes Secretos. En 1904 unos de los
 miembros más jóvenes, Frater Perdurabo, alcanzó el éxito. Los detalles
 completos de este acontecimiento pueden verse en The Equinox of the
 GodsK
+
 No conviene hablar aquí de las pruebas que han de demostrar la vera-
 cidad de esta pretensión. Pero ha de señalarse que se trata de pruebas in-
 ternas. Existen en el manuscrito mismo. Poco importa que el informe de
 alguna de las personas implicadas resultara ser falso.
+
 4. Naturaleza de las Pruebas
+
 Estas digresiones históricas han sido imprescindibles para la compren-
-Consúltense especialmente págs. 61 a 119. El mensaje de los Jefes Secretos está en el Li-
-bro de la Ley, que ha sido publicado en privado para iniciados, y públicamente en The Equi-
-nox, Vol. 1, No. 7 y No. 10; también, con abundancia de detalles, en The Equinox of ¡he
-Gods, págs. 13 a 38 .Al final del volumen citado hay una reproducción fotolitográfica del ma-
-nuscrito. También existe una edición barata de bolsillo del texto del Libro, Existen además
 sión de las circunstancias de este estudio. Conviene que consideremos aho-
 ra la peculiar numeración de los Triunfos. A un matemático le parece
 lógico empezar la serie de números enteros con el Cero, pero eso mismo le
@@ -596,6 +536,13 @@ ella aparece un León, y se refiere evidentemente al signo zodiacal Leo,
 mientras que la carta VIII se llama «Justicia» y representa la figura simbó-
 lica convencional, entronizada, con espada y balanza, aludiendo así clara-
 mente al signo zodiacal de Libra, la Balanza.
+
+[1]Consúltense especialmente págs. 61 a 119. El mensaje de los Jefes Secretos está en el Li-
+bro de la Ley, que ha sido publicado en privado para iniciados, y públicamente en The Equi-
+nox, Vol. 1, No. 7 y No. 10; también, con abundancia de detalles, en The Equinox of ¡he
+Gods, págs. 13 a 38 .Al final del volumen citado hay una reproducción fotolitográfica del ma-
+nuscrito. También existe una edición barata de bolsillo del texto del Libro, Existen además ## esta está incompleta
+
 Frater Perdurabo había hecho un estudio muy profundo del Tarot des-
 de su iniciación en la Orden el 18 de noviembre de 1898; pues, tres meses
 después, había alcanzado el grado de Practicus; en calidad de tal, estaba
@@ -611,6 +558,7 @@ este sentido: «¿Tengo yo las atribuciones correctas?». Pues surgió una res-
 puesta interpolada: «Todas esas viejas letras de mi libro son correctas, pe-
 ro V no es la Estrella. También esto es secreto; mi profeta lo revelará al
 sabio».
+
 Esto era sumamente inquietante. Si Tzaddi no era «la Estrella», ¿cuál
 lo era? Y, ¿qué era Tzaddi? Durante varios años intentó intercambiar esta
 carta, «La Estrella», que es la número XVII, con alguna otra. No tuvo éxi-
@@ -624,6 +572,7 @@ y, por consiguiente, las posiciones de XVII y IV deben ser intercambiadas.
 Sí, es mucho más que satisfactoria; es, para la mente lúcida, la prueba
 más convincente posible de que el Libro de la Ley es un mensaje genuino
 de los Jefes Secretos.
+
 Pues «La Estrella» se refiere en el Zodíaco a Acuario y «El Empera-
 dor» a Aries. Ahora bien, Aries y Acuario están a cada lado de Piscis, del
 mismo modo que Leo y Libra están a cada lado de Virgo; es decir, la co-
@@ -636,41 +585,33 @@ simbolismo. Es más, hasta para el profano debe ser evidente que el equili-
 brio y la proporción son esenciales para cualquier perfección, y la aclara-
 ción de estos dos puntos oscuros en los pasados 150 años es indudable-
 mente un fenómeno muy destacable.
+
 SUMARIO DE LAS CUESTIONES TRATADAS
+
 1. Aun en el caso de que se conociera a ciencia cierta, el origen del
 Tarot es completamente irrelevante. Como sistema, el Tarot debe perma-
 necer o morir por sus propios méritos.
+
 2. Es indudablemente un intento deliberado por representar en forma
 pictórica las doctrinas de la Qábalah.
+
 3. La evidencia de esto es muy semejante a la que se le presenta a una
 persona que hace un crucigrama. Sabe por las «Horizontales» que la pala-
 bra es «CRUJ casilla en blanco DO», de modo que está seguro, sin posibi-
 lidad de error, de que la casilla en blanco tiene que ser una «I».
+
 4. Estas atribuciones son en cierto sentido un mapa convencional,
 simbólico; tal mapa pudo ser inventado por alguna persona o persona de
 gran animación y capacidad artística combinadas con una erudición y lu-
 cidez filosófica casi inconcebibles.
+
 5. Tales personas, con todo lo lúcidas que podamos suponerlas, no
 serían completamente capaces de elaborar un sistema tan complejo en su
 conjunto sin la ayuda de seres superiores cuyos procesos mentales corres-
 pondieran, o correspondan, a una Dimensión superior.
+
 A modo de analogía, podríamos examinar el juego del ajedrez. El aje-
 drez se ha desarrollado a partir de unos orígenes muy simples. Al princi-
-Los Días de la Semana
-Si seguimos las líneas del Heptágono, ve-
-Hexagrama Unicurso remos el Orden (mágico) de los Siete Plane-
-Siempre se ha declarado imposible trazar tas Sagrados. Siguiendo las líneas del Hep-
-un Hexagrama Unicurso; pero finalmente tagrama, el orden de los días de la semana.
-lo hemos conseguido. Las líneas son, sin (Se cree que este ingenioso descubrimiento
-embargo, estrictamente euclideanas; no tie- lo hizo el desaparecido G. H. Frater
-nen anchura. D.D.C.F.)
-XIV
-El Anillo Doble del Zodíaco
-
----
-
-# Página 18
-
 pió era una batalla simulada para los guerreros cansados de los afanes de
 la guerra, pero las sutilezas del juego moderno —que ahora, gracias a Ri-
 chard Réti, han transcendido todo cálculo para adentrarse en el mundo de
@@ -685,10 +626,39 @@ drez es simplemente uno de entre toda una serie de juegos que ha evolu-
 cionado, mientras que otros desaparecieron debido a algún accidente.
 También podemos sostener que es por pura casualidad el que el ajedrez
 moderno estuviera latente en el juego original.
+
+[imagen Los días de la semana]
+Los Días de la Semana
+Si seguimos las líneas del Heptágono, ve-
+remos el Orden (mágico) de los Siete Plane-
+tas Sagrados. Siguiendo las líneas del Hep-
+tagrama, el orden de los días de la semana.
+(Se cree que este ingenioso descubrimiento
+lo hizo el desaparecido G. H. Frater
+D.D.C.F.)
+
+[imagen hexagrama unicurso]
+Hexagrama Unicurso 
+Siempre se ha declarado imposible trazar 
+un Hexagrama Unicurso; pero finalmente 
+lo hemos conseguido. Las líneas son, sin 
+embargo, estrictamente euclideanas; no tie- 
+nen anchura. 
+
+[imagen anillo doble del zodiaco]
+El Anillo Doble del Zodíaco
+
+---
+
+# Página 18
+
 La teoría de la inspiración es realmente mucho más sencilla, y da cuen-
 ta de los hechos sin violar la ley del mínimo esfuerzo.
+
 II
+
 EL TAROT Y LA SANTA QABALAH
+
 LA CUESTIÓN que trataremos ahora es la Santa Qábalah. Este es un
 tema muy sencillo y no presenta dificultades al individuo inteligente ordi-
 nario. En el sistema decimal hay diez números y existe una razón genuina
@@ -697,14 +667,16 @@ filosófico, debe haber diez números, y sólo diez. En este momento es nece-
 sario presentar el «Arreglo de Ñapóles». Pero antes de nada debemos com-
 prender la representación pictórica del Universo dada por la Santa Qába-
 lah (véase diagrama).
+
 Esta ilustración representa el Árbol de la Vida, que es un mapa del
 Universo. Debemos comenzar, como lo haría un matemático, por la idea
 del Cero, el Cero Absoluto, el cual, al examinarse, viene a significar cual-
 quier cantidad que uno pueda escoger, pero no, como el profano puede su-
 poner al principio, Nada, en el vulgar sentido de la palabra de «ausencia
 de cosa alguna» (véase «Berashith», París, 1902).
-12
+
 «EL ARREGLO DE NAPOLES»
+
 Los Qabalistas ampliaron esta idea de Nada y obtuvieron un segundo
 tipo de Nada al que denominaron «Ain Soph» —«Sin límite»— (esta idea
 no parece diferenciarse de la idea de Espacio). Después decidieron que
@@ -713,6 +685,7 @@ postular el Ain Soph Aur —«Luz Ilimitada»—. Con ella parecen haber
 dado a entender en gran medida lo que los últimos hombres de ciencia Vic-
 torianos daban o creían dar a entender con el Éter Lumínico (¿el Conti-
 nuum Espacio-Tiempo?).
+
 Evidentemente, todo esto es informe y vacío; se trata de condiciones
 abstractas, no de ideas positivas. El paso siguiente tiene que ser la idea de
 Posición. Hemos de formular esta tesis: Si hay algo aparte de la Nada, tie-
@@ -721,11 +694,13 @@ de esta inconcebible Nada, la cual no puede existir en cuanto Nada, sino
 que tiene que concebirse como una Nada compuesta por la aniquilación
 de dos opuestos imaginarios. De este modo aparece El Punto, que no tiene
 «ni partes ni magnitud, sino sólo posición».
+
 Pero la posición no significa nada a menos que exista algo más, alguna
 otra posición con la que se pueda comparar. Tenemos que describirla. La
 única forma de hacerlo está en contar con otro Punto, y ello significa que
 tenemos que inventar el número Dos, haciendo entonces posible La Lí-
 nea.
+
 Pero esta Línea no significa realmente mucho, pues aún no existe me-
 dida de longitud. En esta fase el límite del conocimiento es que existen dos
 cosas de las que ciertamente podemos hablar. Pero no podemos decir que
@@ -735,35 +710,34 @@ ra cosa. Debemos contar con otro punto. Tenemos que inventar El Plano,
 tenemos que inventar El Triángulo. Al hacerlo, aparece, casualmente,
 toda la Geometría Plana. Ahora podemos decir que «A está más cerca de
 B que de C».
+
 Pero, hasta el momento, no hay substancia en ninguna de estas ideas.
 De hecho, no hay idea de ningún tipo, a no ser la idea de Distancia y quizá
 las ideas de Mediación y de Medida Angular, de modo que la Geometría
 Plana, que ahora existe en teoría, es después de todo completamente rudi-
 mentaria e incoherente. No ha habido ningún tipo de aproximación al
-13
-
----
-
-# Página 19
-
 concepto de una cosa realmente existente. No se ha hecho más que dar de-
 finiciones, todas ellas en un plano puramente ideal e imaginario.
+
 Y he aquí que aparece El Abismo. No podemos continuar más en lo
 ideal. El paso siguiente debe ser lo Real —o, al menos, un acercamiento a
 lo Real—. Tenemos tres puntos, pero no tenemos idea de dónde está nin-
 guno de ellos. Se hace imperioso un cuarto punto, y éste formula la idea
 de materia.
+
 El Punto, la Línea, el Plano. El cuarto punto, a no ser que resultara en-
 contrarse en el plano, nos da El Sólido. Si queremos conocer la posición
 de un punto, tenemos que definirlo mediante el uso de tres ejes coordena-
 dos. Está a tantos pies de la pared norte, a tantos de la pared este y a tantos
 del suelo.
+
 Así se ha desarrollado a partir de la Nada un Algo del que puede decir-
 se que existe. Hemos llegado a la idea de Materia. Pero esta existencia es
 sumamente endeble, pues la única propiedad de cualquier punto dado es
 su posición en relación con otros puntos; no es posible cambio alguno y
 nada puede suceder. Por ello nos vemos forzados en el análisis de la Reali-
 dad conocida a postular una quinta idea positiva, que es la de Movimiento.
+
 Este implica la idea de Tiempo, pues sólo a través del Movimiento, y
 en el Tiempo, puede tener lugar un evento dado. Sin este cambio y se-
 cuencia nada puede ser objeto de los sentidos. (Ha de advertirse que este
@@ -771,11 +745,13 @@ n.° 5 es el número de la letra Hé del alfabeto hebreo. Esta es la letra consa
 grada tradicionalmente a la Gran Madre. Es la matriz en la que el Gran
 Padre, que está representado por la letra Yod, que es la reproducción pic-
 tórica de un Punto primario, se mueve y engendra la existencia activa.)
+
 Ahora es posible una idea concreta del Punto y, finalmente, es un pun-
 to que puede ser autoconsciente, ya que puede tener un Pasado, un Pre-
 sente y un Futuro. Es capaz de definirse a sí mismo en términos de las
 ideas previas. He aquí el número Seis, el centro del sistema: autoconscien-
 te, capaz de experiencia.
+
 En esta fase conviene apartarnos por un momento del simbolismo es-
 trictamente Qabalístico. La doctrina de los tres números siguientes (al me-
 nos para algunas personas) no está expresada muy claramente. Debemos
@@ -783,7 +759,6 @@ acudir al sistema Vedanta para hallar una interpretación más lúcida de los
 números 7, 8 y 9, si bien éstos se corresponden muy íntimamente con las
 ideas Qabalísticas. En el análisis hindú de la existencia los Rishis (Sabios)
 postulan tres cualidades: Sat, la Esencia del Ser mismo; Chit, Pensamiento
-14
 o Intelecto, y Ananda (palabra traducida normalmente por Bienaventuran-
 za), el placer experimentado por el Ser en el curso de los acontecimientos.
 Este éxtasis es evidentemente la causa excitante de la movilidad de la exis-
@@ -794,6 +769,7 @@ explorarlas. Podemos intercalar aquí un extracto que guarda un estrecho
 paralelismo con esta doctrina del documento titulado El Libro del Gran
 Alca, con el fin de permitir al lector examinar el tema desde el punto de
 vista de dos mentes diferentes.
+
 «En un tiempo, todos los elementos deben haber estado separados
 —ése sería el caso del gran calor—. Pues bien, cuando los átomos llegan al
 Sol conseguimos ese calor inmenso y extremo y todos los elementos son
@@ -807,6 +783,7 @@ ble una evolución real. Podemos ver entonces una razón por la que un ele-
 mento decida pasar por esta serie de encarnaciones, pues así, y sólo así,
 puede avanzar, y sobrelleva el lapso de memoria que tiene durante estas
 encarnaciones porque sabe que saldrá adelante sin sufrir cambio alguno.
+
 Por consiguiente, tú puedes tener un número infinito de dioses, indivi-
 duales e iguales aunque diversos, cada uno de ellos supremo y absoluta-
 mente indestructible. Esta es además la ú.iica explicación de cómo un Ser
@@ -817,19 +794,15 @@ como el Monoteísmo Místico; pero la objeción u esa teoría es que Dios tie-
 ne que crear cosas que son todas ellas parte de Sí Mismo, con lo que su in-
 teracción es falsa. Si presuponemos muchos elementos, su interacción es
 lógica.»
+
 Estas ideas de Ser, Pensamiento y Bienaventuranza constituyen las cua-
 lidades mínimas posibles que un Punto debe poseer si quiere tener una
 verdadera experiencia sensoria de sí mismo. Corresponden a los números
 9, 8 y 7. La primera idea de realidad, tal como la entiende la mente, es,
-15
-
----
-
-# Página 20
-
 por tanto, la de concebir el Punto en cuanto que formado por estos nueve
 previos desarrollos sucesivos del Cero. Y he aquí, finalmente, el número
 Diez.
+
 Con otras palabras, para describir la Realidad en forma de Conoci-
 miento tenemos que postular estas diez ideas sucesivas. En la Qábalah se
 les llama «Sephiroth», palabra que significa «Números». Como veremos
@@ -838,7 +811,9 @@ están en correspondencia con todos los fenómenos que su disposición en el
 Árbol de la Vida, como se ve en los diagramas (págs. 270, '272 y 274),
 constituye un mapa del Universo. Estos diez números están representados
 en el Tarot por las cuarenta cartas menores.
+
 EL TAROT Y LA FORMULA DEL TETRAGRAMMATON
+
 ¿Qué son, entonces, las Cartas de Figura? Esta cuestión implica otro as-
 pecto del sistema de desarrollo. ¿Cuál fue el primer proceso mental? Obli-
 gados a definir la Nada, la única forma de hacerlo sin destruir su integri-
@@ -850,6 +825,7 @@ sión, también pueden proyectarse en la Materia, de modo que su unión da
 lugar a un Hijo y una Hija. La idea se resuelve en la práctica como un mé-
 todo de describir cómo la unión de dos cosas cualesquiera da lugar a una
 tercera que no es ninguna de ellas.
+
 El ejemplo más claro lo vemos en la química. Si tomamos hidrógeno y
 cloro, y hacemos pasar por ellos una chispa eléctrica, tiene lugar una ex-
 plosión, y se produce ácido clorhídrico. Aquí tenemos una substancia real
@@ -861,17 +837,17 @@ raleza espiritual y corresponde a la Hija.
 En el lenguaje de los alquimistas, estos fenómenos fueron clasificados
 convencionalmente bajo la figura de cuatro «elementos». El Fuego, el más
 puro y activo, corresponde al Padre; el Agua, aun pura pero pasiva, es la
-16
 Madre; su unión resulta en un elemento que participa de ambas naturale-
 zas, aunque distinto de ellas dos, elemento al que llamamos «Aire».
+
 Debemos tener muy presente que los términos empleados por los filó-
 sofos antiguos y medievales no significan en absoluto lo que hoy se entien-
-de por ellos. El «Agua» no significa para ellos el compuesto químico H 0;
-2
+de por ellos. El «Agua» no significa para ellos el compuesto químico H20;
 es una idea sumamente abstracta que existe por todas partes.La ductilidad
-del hierro es una cualidad ácuea1. La palabra«elemento» no da a entender
+del hierro es una cualidad ácuea[1]. La palabra«elemento» no da a entender
 un elemento químico; implica todo un conjunto de ideas; compendia cier-
 tas cualidades o propiedades.
+
 Apenas parece posible definir estos términos de forma que su significa-
 do resulte claro para el lector. Este debe descubrir por sí mismo y median-
 te una práctica constante lo que para él significan. De esto no se sigue que
@@ -892,19 +868,22 @@ vocamos acerca de materia alguna. Esto es cierto hasta en temas de la
 ciencia más estricta. La definición científica de un objeto es universal-
 mente correcta; y sin embargo no lo es por completo para cualquier obser-
 vador individual.
+
 El fenómeno que llamamos Hija es ambiguo. Ha sido definido anterior-
 mente como el ingrediente espiritual que resulta de la unión del Padre y la
 Madre; pero ésta es sólo una interpretación.
-1 Asimismo, su virtud magnética es ígnea, su conductividad aérea, y su peso y solidez té-
+
+[1] Asimismo, su virtud magnética es ígnea, su conductividad aérea, y su peso y solidez té-
 --eos. Sin embargo, el peso no es sino una función de la curvatura del «continuum espacio-
 tiempo»: «La Tierra es el Trono del Espíritu».
-17
+
 
 ---
 
 # Página 21
 
 EL TAROT Y LOS ELEMENTOS
+
 Los Antiguos concibieron el Fuego, el Agua y el Aire como elementos
 puros. Estos fueron relacionados con las tres cualidades de Ser, Conoci-
 miento y Bienaventuranza antes mencionadas. También se corresponden
@@ -916,6 +895,7 @@ Azufre, Mercurio y Sal. Este Azufre es Actividad, Energía, Deseo; el Mer-
 curio es Fluidez, Inteligencia, el poder de Transmisión; la Sal es el vehícu-
 lo de estas dos formas de energía, pero posee en sí misma cualidades que
 reaccionan con ellas.
+
 El lector debe tener bien presentes todas estas clasificaciones tripartitas.
 En algunos casos, un grupo será más útil que otro. Por el momento, con-
 centrémonos en la serie Fuego, Agua, Aire. Estos elementos están repre-
@@ -928,6 +908,7 @@ representada por la última letra del alfabeto, la Tau. Esta es pues otra in-
 terpretación enteramente diferente de la idea de Hija, que aquí se conside-
 ra como un apéndice del Triángulo. Es el número Diez que cuelga en el
 diagrama del 7, 8 y el 9.
+
 Debemos tener presentes simultáneamente estas dos interpretaciones.
 Los Qabalistas, después de inventar el Tarot, procedieron a hacer ilustra-
 ciones de estas ideas sumamente abstractas del Padre, la Madre y el hijo y
@@ -935,13 +916,14 @@ la Hija, y las llamaron Rey, Reina, Príncipe y Princesa. Aunque pueda
 prestarse a confusión, también se las llamó Caballero, Reina, Rey y Prin-
 cesa. A veces, al Príncipe y Princesa se les llama «Emperador» y «Empe-
 ratriz».
+
 La razón de este embrollo está relacionado con la doctrina del Loco del
 Tarot, el Legendario Errante que se gana a la hija del Rey, leyenda que
 está conectada con el plan antiguo y extraordinariamente sabio de elegir al
 sucesor del rey en base a la habilidad de aquel para ganarse a la Princesa
-18
-espués de vencer a todos los competidores. (La Rama Dorada de Frazer
+después de vencer a todos los competidores. (La Rama Dorada de Frazer
 B una autoridad en el tema).
+
 Para nuestra baraja, se ha creído más conveniente adoptar los términos
 Caballero», «Reina», «Príncipe» y «Princesa» para representar la serie
 L adre, Madre, Hijo, Hija, pues la doctrina implicada, que es sumamente
@@ -949,18 +931,21 @@ ompleja y difícil, así lo requiere. El Padre es «Caballero» porque aparece
 epresentado a caballo. Puede resultar esclarecedor describir los dos prín-
 gales sistemas, el Hebreo y el Pagano, como si fueran (y siempre lo han
 Sido) sistemas concretos y diferentes.
+
 El Sistema Hebreo es directo e irreversible; postula al Padre y la Madre
 de cuya unión nacen el Hijo y la Hija. Y aquí termina. Sólo fue la poste-
 rior especulación filosófica quien se encargó de derivar la Diada Padre-
 Madre de una Unidad manifiesta, y quien aún más tarde buscó la fuente
 de esa Unidad en la Nada. Este es un esquema concreto, limitado y tosco,
 con su Principio sin causa y su estéril Final.
+
 El Sistema Pagano es circular, autogenerado, autoalimentado, autorre-
 novado. Es una rueda en cuyo borde están el Padre-Madre-Hijo-Hija; ellos
 se mueven alrededor del eje inmóvil del Cero; se unen a voluntad; se trans-
 forman uno en otro; para la Órbita no hay Principio ni Fin; ninguno es su-
 perior o inferior. La Ecuación «Cero=Muchos=Dos=Uno=Todos=Cero»
 está implícita en todas las modalidades de existencia del Sistema.
+
 Aunque esto sea tan complejo, se ha conseguido al menos un resultado
 muy deseable: explicar por qué tiene el Tarot cuatro cartas de Figura, no
 tres. Esto explica también por qué hay cuatro palos. Los cuatro palos se
@@ -977,14 +962,9 @@ virilidad y su inteligencia; los números 4 a 9 describen sus cualidades
 mentales y morales concentradas en su personalidad humana; el número 6
 es, por así decir, una elaboración concreta del número 1; y el número 10
 corresponde a la Tierra, que es el vehículo físico de los nueve números
-19
-
----
-
-# Página 22
-
 previos. Los nombres de estas partes del alma son: 1, Jechidah; 2 y 3,
 Chiah y Neschamah; 4 a 8, Ruach; y por último, 10, Nephesch.
+
 Estos cuatro planos corresponden también a los denominados «Cuatro
 Mundos», para entender la naturaleza de los cuales debemos remitirnos,
 con todas las reservas debidas, al sistema platónico. El número 1 es Atzi-
@@ -997,6 +977,7 @@ ros 4 a 9 incluyen a Yetzirah, el Mundo Formativo, en el que se produce
 una imagen intelectual, una forma apreciable de la idea; y esta imagen
 mental se hace real y tangible en el número 10, Assiah, el Mundo Mate-
 rial.
+
 A través de todas estas atribuciones confusas (y a veces aparentemente
 contradictorias), con una paciencia inagotable y una pertinaz energía, se
 llega finalmente a una comprensión lúcida, a una comprensión que es infi-
@@ -1006,6 +987,7 @@ caso de que uno fuera un superficial racionalista, resultaría muy fácil en-
 contrar defectos en todas estas atribuciones e hipótesis semifilosóficas;
 pero también resulta muy fácil demostrar matemáticamente que es impo-
 sible golpear una pelota de golf.
+
 Hasta ahora, el tema principal de este ensayo ha sido el Árbol de la
 Vida y, en su esencia, los Sephiroth. Conviene examinar ahora las relacio-
 nes de los Sephiroth entre sí. (Véase diagrama, pág. 272.) Se advertirá que
@@ -1020,14 +1002,16 @@ Esto no es casual. En ningún lugar de la figura aparece un triángulo equi-
 látero con el vértice hacia arriba, si bien hay tres triángulos equiláteros
 con el vértice hacia abajo. Esto se debe a la fórmula original «Padre, Ma-
 dre, Hijo», que se repite tres veces en una escala descendente de simplici-
-20
 dad y espiritualidad. El número 1 está por encima de estos triángulos, pues
 constituye una integración del Cero y cuelga del triple velo de lo Negativo.
+
 Pues bien, los Sephiroth, que son emanaciones del número 1, como ya
 se ha dicho, son cosas en sí mismas, en un sentido casi kantiano. Las líneas
 que los unen son Fuerzas de la Naturaleza de un tipo mucho menos com-
 pleto; son menos abstrusas, menos abstractas.
+
 LAS VEINTIDÓS CLAVES, ATU, O TRIUNFOS DEL TAROT
+
 Aquí tenemos un excelente ejemplo de la omnipenetrante doctrina del
 Equilibrio. La ecuación establece siempre que ax2 + bx + x = 0. Si no es
 igual a 0, no es una ecuación. Y así, cuando quiera que un símbolo pierde
@@ -1036,6 +1020,7 @@ ra y las cartas menores forman la estructura esquemática del Tarot en su
 función primordial de mapa de Universo. Pero, por la significación espe-
 cial de la baraja en cuanto que Clave de fórmulas mágicas, los veintidós
 triunfos adquieren una importancia muy particular.
+
 ¿A qué símbolos están atribuidos? No pueden relacionarse propiamen-
 te con ninguna de las ideas, esenciales, pues ese papel lo han ocupado las
 cartas 1 a 10. No pueden representar básicamente el complejo Padre, Ma-
@@ -1046,21 +1031,17 @@ siete letras llamadas dobles, Beth, Gimel, Daleth, Kaph, Pé, Resh y Tau,
 representan a los siete planetas sagrados. Las doce letras restantes, Hé,
 Vau, Zain, Cheth, Teth, Yod, Lamed, Nun, Samekh, A'ain, Tzaddi y
 Qoph, representan a los Signos del Zodíaco.
+
 En esta ordenación existe una ligera superposición o coincidencia. La
 letra Shin sirve tanto para el Fuego como para el Espíritu, de la misma
 forma en que el número 2 participa de la naturaleza del número I; y la le-
 tra Tau representa tanto a Saturno como al elemento Tierra. Estos puntos
 problemáticos encierran una enseñanza.
+
 Sin embargo, no podemos dejar por las buenas a un lado estas veintidós
 letras. La piedra que rechazaron los constructores se convierte en la piedra
 angular. Estas veintidós letras adquieren una personalidad propia: una
 personalidad muy curiosa. Sería del todo equivocado decir que represen-
-21
-
----
-
-# Página 23
-
 tan un universo completo. Parece que representan ciertas fases bastante
 peculiares del universo. No parece factores esenciales de la estructura del
 universo. Cambian periódicamente en su relación con los acontecimientos
@@ -1082,10 +1063,12 @@ lar ciertos aspectos particulares del Universo; establecer ciertas doctrinas
 especiales; proclamar ciertas formas de comportamiento adecuadas a la si-
 tuación política existente. Pero ambos sistemas, Tarot y I Ching, difieren
 de la misma manera que una composición literaria de un diccionario.
+
 Ha sido muy desafortunado, aunque completamente inevitable, vernos
 obligados a adentrarnos tanto en esta controversia y que ésta haya supues-
 to tantas digresiones como preliminar a una descripción clara de la baraja.
 Puede que proceder a resumir lo ya expuesto nos facilite la tarea.
+
 He aquí una exposición sencilla del mapa del Árbol de la Vida. Los
 números, o Cosas-en-Sí-Mismas, son diez emanaciones sucesivas del triple
 velo de lo Negativo. Las cartas menores numeradas del 1 al 10 correspon-
@@ -1093,10 +1076,12 @@ den a los Sephiroth. Estas cartas aparecen en forma cuádruple, pues no
 son los números abstractos puros, sino símbolos particulares de esos
 números en el universo de manifestación, el cual está clasificado conven-
 cionalmente bajo la figura de cuatro elementos.
+
 Las cartas de Figura representan los elementos en sí, dividido cada uno
 de ellos en cuatro subelementos. Para facilitar su consulta, he aquí una lis-
 ta de estas cartas:
-22
+
+##este debería ser una tabla
 Caballero de Varas, Fuego de Fuego
 Reina de Varas, Agua de Fuego
 Príncipe de Varas, Aire de Fuego
@@ -1113,6 +1098,7 @@ Caballero de Discos, Fuego de Tierra
 Reina de Discos, Agua de Tierra
 Príncipe de Discos, Aire de Tierra
 Princesa de Discos, Tierra de Tierra
+
 Los triunfos del Tarot son veintidós; representan a los elementos que
 hay entre los Sephiroth o Cosas-en-Sí-Mismas, de modo que su posición
 en el Árbol de la Vida está cargada de significado. He aquí uno o dos ejem-
@@ -1122,6 +1108,7 @@ número 6. El número 6 es la personalidad humana del individuo; el núme-
 ro 3, su intuición espiritual. Por consiguiente, es lógico y significativo que
 la influencia del 3 sobre el 6 sea la de la voz intuitiva o inspiradora. Es la
 iluminación de la mente y el corazón por parte de la Gran Madre.
+
 Examinemos ahora la carta que une el número 1 al número 6. Esta car-
 ta se llama «La Gran Sacerdotisa» y está atribuida a la Luna. La carta re-
 presenta a la Isis Celeste. Es un símbolo de completa pureza espiritual; es
@@ -1130,7 +1117,6 @@ ciencia humana desde la consciencia divina última. Mirada desde abajo, es
 la aspiración pura y resulta del hombre a la Divinidad, su fuente. Conven-
 drá que nos extendamos más en estos temas cuando tratemos las cartas
 por separado.
-23
 
 ---
 
@@ -1153,39 +1139,51 @@ leyenda simbólica que circulaba entre los iniciados y que se vulgarizó en la
 fábula de la Mujer Papa. Aún más importante, «El Ángel» o «El Juicio
 Final», representaba la destrucción del mundo por fuego. Su jeroglífico es,
 en cierto sentido, profético, pues cuando el mundo fue destruido por fuego
-el 21 de marzo de 19041, nos llamó inevitablemente la atención la seme-
-janza de esta carta con la Estela de la Revelación*. Al ser esta fecha el
+el 21 de marzo de 1904[1], nos llamó inevitablemente la atención la seme-
+janza de esta carta con la Estela de la Revelación[*]. Al ser esta fecha el
 principio del Nuevo Aeón, nos ha parecido más propio representar los co-
 mienzos del Aeón, pues todo lo que se sabe sobre el siguiente Aeón, que
-He gara dentro de 2.000 años, es que su símbolo es la de la doble vara2.
+He gara dentro de 2.000 años, es que su símbolo es la de la doble vara[2].
 Pero el nuevo Aeón ha producido unos cambios tan fantásticos en el orden
 establecido que sería evidentemente absurdo intentar mantener las tradi-
-ciones antiguas; «los rituales de la antigüedad son negros»**. Consecuente-
+ciones antiguas; «los rituales de la antigüedad son negros»[**]. Consecuente-
 mente, la tarea de este Escriba ha sido la de preservar esos caracteres esen-
 ciales del Tarot que son independientes de los cambios periódicos de
 Aeón, al tiempo que la de poner al día aquellos caracteres dogmáticos y
-Véase Equinox ofthe Gods, loe. cit.
-* N. del T.: Estela funeraria de Ankh-af-na-Khonsu (XXVI Dinastía) donde ya se presa-
-giaban los principios fundamentales del Aeón de Horus inaugurado con la recepción por
-Crowley en 1904 de El Libro de la Ley.
-2 Véase AL III, 34. Hace referencia a Maat, Themis, la Señora del Equilibrio.
-** N. del T.: Véase AL II, 5.
-24
 artísticos del Tarot que se han vuelto ininteligibles. El arte del progreso
 está en mantener intacto lo Eterno; pero también en adoptar una posición
 de vanguardia, quizá en algunos aspectos semirrevolucionaria, con respec-
 to a accidentes como los sujetos al imperio del Tiempo.
+
+[1]Véase Equinox ofthe Gods, loe. cit.
+
+* N. del T.: Estela funeraria de Ankh-af-na-Khonsu (XXVI Dinastía) donde ya se presa-
+giaban los principios fundamentales del Aeón de Horus inaugurado con la recepción por
+Crowley en 1904 de El Libro de la Ley.
+
+[2] Véase AL III, 34. Hace referencia a Maat, Themis, la Señora del Equilibrio.
+
+[**] N. del T.: Véase AL II, 5.
+
+
+
+
 III
+
 EL TAROT Y EL UNIVERSO
+
 EL TAROT es una representación Ilustrada de las Fuerzas de la Natu-
 aleza tal como las concebían los Antiguos de acuerdo a un simbolismo
 convencional.
+
 El Sol es una estrella. A su alrededor gira una serie de cuerpos a los que
 se llama Planetas, incluida la Luna, un satélite de la Tierra.
+
 Estos cuerpos giran en una sola dirección. El Sistema Solar no es una
 esfera, sino una rueda. Los planetas no permanecen en alineación exacta,
 sino que oscilan hasta cierto punto (relativamente poco importante) de un
 lado a otro del plano verdadero. Sus órbitas son elípticas.
+
 Los Antiguos imaginaron esta rueda mucho más claramente que lo que
 la suelen imaginar las mentes modernas. Prestaron especial atención al
 arco imaginario. Dentro de los límites de este arco, concibieron que las Es-
@@ -1195,19 +1193,16 @@ da lo denominaron Zodíaco. Les pareció entonces que las constelaciones
 que están fuera de este cinturón no afectaban tanto a la humanidad, pues
 no estaban en línea directa con la gran fuerza giratoria de la rueda
 (T.A.R.O.=R.O.T.A.=rueda).
+
 TEORÍAS DE LOS ANTIGUOS
+
 1. En la antigüedad se suponía que la Tierra era el centro del Univer-
 so. Se consideraba que los Cielos que estaban por encima de la Tierra —no
-25
-
----
-
-# Página 25
-
 se tenía en cuenta que también estaban por debajo— eran de Naturaleza
 Divina. Y como se reconocieran imperfecciones e irregularidades en los
 asuntos mundanos, se pensó que los movimientos de los Cuerpos Celestes,
 que se observó que eran regulares, tenían que ser perfectos.
+
 Entonces se inició cierto tipo de pensamiento apriorístico. Los mate-
 máticos tenían la idea de que el Círculo era un figura perfecta; por tanto
 (decían con el típico razonamiento teológico), todos los cuerpos celestes
@@ -1217,52 +1212,64 @@ sivas y exactas, encontraron cada vez más difícil reconciliar observación y
 teoría, cuando menos, hacerlo sin exponerse a grandes inconvenientes en
 sus cálculos. De modo que inventaron los «ciclos» y «epiciclos» para ex-
 plicar los movimientos observados.
+
 Finalmente, Copérnico se vio impulsado por esta incomodidad a suge-
 rir que sería realmente mucho más práctico (si la idea no fuera tan perver-
 sa) imaginar que el Sol, y no la Tierra, era el centro del Sistema.
+
 En las matemáticas no hay hechos fijos. Bertrand Russell afirma que en
 este tema «nadie sabe lo que dice, y a nadie le importa si se tiene razón o
 no».
+
 Por ejemplo: Comencemos con la suposición de que la Luna es el cen-
 tro inamovible del Universo. Nadie puede contradecirla; no tenemos más
 que manipular los cálculos para que cuadren. La objeción práctica es que
 no facilitaría la tarea de los navegantes.
+
 Es importante tener en mente esta idea, pues de otro modo uno no
 puede captar todo el espíritu de la Filosofía de la Ciencia moderna. Esta
 no persigue la Verdad; no concibe la Verdad (en cualquier sentido ordina-
 rio de la palabra) como algo posible; persigue el máximo de conveniencia.
+
 2. Volvamos a la imagen del Sistema Solar. El Sol es el Cubo de la
 Rueda; el Planeta más exterior está sobre su llanta; y más allá, aunque la-
 teralmente dentro de esta llanta, están las Doce Constelaciones del Zodía-
 co.
+
 ¿Por qué doce?
+
 La primera división aproximada del círculo es un cuatro, de acuerdo
 con las estaciones observadas. Esta decisión también puede haber estado
 influida por la división de los Elementos en Cuatro —Fuego, Aire, Agua,
 No sabían que el Círculo es sólo un caso de Elipse: aquél en que los focos coinciden.
-26
+
 Tierra—. (Como ya se ha explicado, éstos no aluden a los objetivos que
 hoy entendemos con esas palabras.)
+
 Quizá porque se creía necesario introducir un número tan sagrado
 como el Tres en todo lo celeste, o porque resultaba que las constelaciones
 observadas estaban divididas naturalmente en doce grupos, se dividió el
 Zodíaco en doce signos, tres para cada Estación.
+
 Se observó que la Influencia del Sol en la Tierra cambiaba a medida
 que El pasaba por los Signos. Y que también cambiaban cosas completa-
 mente simples tales como la medida de tiempo entre la Salida y la Puesta
 del Sol.
+
 Cuando se dice que el Sol entra en el Signo de Aries, se quiere decir
 que si se trazara una línea recta desde la Tierra al Sol y se prolongara hasta
 las Estrellas, esa línea pasaría por el comienzo de esa Constelación. Su-
 pongamos ahora que uno observa la Luna Llena el primer día de Primave-
 ra; pues bien, uno podrá ver, tras ella, las estrellas del comienzo de Libra,
 el signo opuesto a Aries.
+
 Los antiguos observaron que la Luna tardaba aproximadamente vein-
 tiocho días en completar el ciclo; y a cada día se le asignó lo que se dio en
 llamar una Mansión. Se suponía que la influencia misteriosa de la Luna
 cambiaba en cada Mansión. Esta teoría no entronca directamente con el
 Tarot, pero debe* mencionarse para ayudar a despejar cierto confusionismo
 que está a punto de complicar la cuestión.
+
 3. Los primeros astrónomos calcularon que el Sol tardaba 360 días en
 recorrer el Zodíaco. Este era un secreto celosamente guardado por los eru-
 ditos; de modo que lo ocultaron en el nombre divino Mithras, que, según
@@ -1274,25 +1281,23 @@ ras por Meithras, que (como Abraxas) suma 365. En este cálculo sigue ha-
 biendo un error de cerca de seis horas; de modo que, con el curso de los si-
 glos, el Calendario se fue desajustando. No asumió su forma actual hasta
 tiempos del papa Gregorio.
+
 El Objeto de que dividieran el Círculo del Zodíaco en 360 grados está
 en que es una base cómoda para el cálculo.
+
 A cada medida angular de 10 grados la llamaron Decanato. Así pues
 tenemos treinta y seis Decanatos que dividen cada Signo del Zodíaco en
-27
-
----
-
-# Página 26
-
 tres partes. Se suponía que la influencia del Signo era muy rápida e impe-
 tuosa en el primer Decanato, poderosa y equilibrada en el segundo, y espi-
 ritualizada y efímera en el tercero.
+
 Hagamos una breve digresión. Una de las doctrinas más importantes de
 los Antiguos era la del Macrocosmos y el Microcosmos. El Hombre es en
 sí mismo un Universo en pequeño; es una copia diminuta del gran Univer-
 so Este argumento fue, naturalmente, invertido; de manera que las carac-
 terísticas antes dadas de las cualidades de los Tres Decanatos del signo se
 debieron probablemente a una analogía con el curso de la vida del hom-
+
 4. Las observaciones precedentes dan una idea bastante completa de la
 presentación arbitraria, o en gran medida arbitraria, del Cosmos por parte
 de los Antiguos. En primer lugar, la división en Cuatro Elementos. Estos
@@ -1301,8 +1306,10 @@ que era básicamente Fuego por razones obvias; pero también tendría la
 cualidad Aérea de la Movilidad. La parte Ácuea estaría indicada por su
 capacidad de crear Imágenes; y la parte Terrena, por su inmensa Estabili-
 dad.
+
 Asimismo, dirían de una Serpiente que su poder Mortífero es ígneo; su
 Rapidez, aérea; su movimiento ondulante,Acueo; y su habitat, Terreno.
+
 Estas descripciones son evidentemente del todo insuficientes; tienen
 que complementarse atribuyendo cualidades planetarias y zodiacales a to-
 dos los objetos. Así, el Toro es en el Zodíaco un signo Terreno, y es el sig-
@@ -1314,64 +1321,72 @@ Luna, la Madre del Cielo de igual forma que el Sol es el Padre. Represen-
 taron esta idea diciendo que la Luna está «exaltada» en Tauro —es decir,
 que ejerce el aspecto más benéfico de su influencia cuando está en ese sig-
 no.
+
 5 Advertir cómo se subdivieron y se unen todos estos Elementos re-
 sulta confuso en un principio, aunque sumamente instructivo y revelador
 cuando se ha asimilado perfectamente el mecanismo. Solo se puede llegar
 a comprender cualquiera de estos símbolos haciendo una imagen com-
 puesta de él, una imagen formada por todos los demás en proporción va-
 riable Pues cada planeta confiere cierta parte de su influencia a cualquier
-28
 objeto dado. Este hábito mental lleva a una comprensión de la Unidad de
 la Naturaleza (junto con su exaltación justa y espiritual) que difícilmente
 podría alcanzarse de otro modo; ello produce una armonía interna que
 acaba en una aceptación de la Vida y la Naturaleza.
+
 Ha llegado ya el momento de analizar y definir las características tradi-
 cionales de estos símbolos; pero, antes de nada, quizá fuera más oportuno
 construir sobre un cimiento firme pasando a examinar el número Dos, que
 hasta ahora no ha sido tenido en cuenta.
+
 En el Universo sólo hay dos operaciones posibles, el Análisis y la Sín-
 tesis. Dividir y unir. Solve et coagula, decían los Alquimistas.
 Si se ha de cambiar algo, o bien debemos dividir el objeto en dos par-
 tes, o añadirle otra unidad. Este principio está en la base de todo pensa-
 miento y trabajo científico.
+
 El primer paso del hombre de ciencia es la Clasificación, la Medición.
 El dice: «Esta hoja de encina es como aquella hoja de encina; esta hoja de
 encina es distinta de esta hoja de haya». Hasta que no se comprende este
 hecho, no se empieza a entender el Método Científico.
+
 Los Antiguos eran plenamente conscientes de esta idea. Los chinos, en
 particular, basaban toda su filosofía en esta división primaria de la Nada
 original. Debemos empezar con la Nada; de lo contrario se plantearía la
 cuestión: ¿De dónde surgió este postulado Algo? De modo que escribieron
 la ecuación —Cero igual a más uno más menos uno; 0=(+l) + (-1).
+
 Al Yang, o Principio Masculino, lo llamaban «Más Uno»; al Ying, o
 Principio Femenino, «Menos Uno». Estos se combinan después en pro-
 porción variable, dando así la idea de Cielo y Tierra en equilibrio perfecto,
 del Sol y Luna en equilibrio imperfecto, y de los Cuatro Elementos en for-
 ma desequilibrada. (Véase diagrama: El Cosmos Chino.)
+
 Esta ordenación china es pues decuple, y se ha demostrado que es pro-
 digiosamente equivalente al Sistema que hemos examinado aquí.
+
 6. El antiguo esquema de los Elementos, Planetas y Signos Zodiacales
 fue resumido por los Qabalistas en su Árbol de la Vida.
+
 Esta identidad entre los dos sistemas se mantuvo velada hasta hace
-muy poco1 porque los chinos continuaron con su sistema de duplicación, y
+muy poco[1] porque los chinos continuaron con su sistema de duplicación, y
 transformaron así sus ocho trigramas en sesenta y cuatro hexagramas,
-1 El autor de este libro descubrió esta identidad durante su estudio —aún incompleto—del
-I Ching.
-29
-
----
-
-# Página 27
-
 mientras que los sabios del Asia Occidental unieron sus diez números del
 Árbol de la Vida mediante veintidós Senderos.
+
 Los chinos tienen pues sesenta y cuatro símbolos principales frente a
 los treinta y dos del Árbol; pero los Qabalistas cuentan con una concate-
 nación de símbolos que se presta a una interpretación y manejo muy suti-
 les. Es también más adecuada para describir las relaciones internas de sus
 Elementos. Por otra parte, cada uno de ellos puede multiplicarse o subdi-
 vidirse a voluntad, según lo requiera el momento.
+
+[1] El autor de este libro descubrió esta identidad durante su estudio —aún incompleto—del
+I Ching.
+
+
+
 EL ÁRBOL DE LA VIDA
+
 I. Esta figura debe estudiarse con gran atención, pues es la base de todo
 el sistema en que se funda el Tarot. Resulta totalmente imposible dar una
 explicación completa de esta figura, pues (en cierto modo) es universal.
@@ -1388,6 +1403,7 @@ de cualquier objeto ordinario se haga por dos personas de idénticas reac-
 ciones sensoriales y desde el mismo lugar, no puede hacerse directamente
 al mismo tiempo; y hasta la más pequeña fracción de segundo es suficiente
 para mover en el espacio a objeto y observador.
+
 Hay que hacer énfasis en este hecho, pues no se debe considerar el Ár-
 bol de la Vida como una fórmula fija. En cierto sentido, es un modelo
 eterno del Universo precisamente porque es infinitamente elástico; y ha de
@@ -1398,7 +1414,7 @@ constituye un fulcro para la memoria y un esquema para la mente. Debe
 estudiarse continuamente, como ejercicio cotidiano, pues es umversalmen-
 te elástico, y se desarrolla en razón en un método sumamente ingenioso y
 perfecto para comprender la totalidad de la Existencia.
-30
+
 2. Es probable que los Qabalistas que inventaron el Árbol de la Vida
 estuvieran inspirados por Pitágoras, o que tanto éste como aquéllos saca-
 ran su conocimiento de una fuente común de mayor antigüedad. En cual-
@@ -1413,55 +1429,76 @@ ne sentido en sí mismo; sólo puede entenderse en relación con los demás.
 Esta es exactamente la conclusión a que antes llegamos en este ensayo por
 lo que respecta a la forma en que los planetas, elementos y signos depen-
 dían entre sí y estaban compuestos unos por otros.
+
 Pero el posterior intento por penetrar la Realidad llevó a los Qabalistas
 a resumir las cualidades de estas ideas algo ambiguas y literarias refirién-
 dolas a los números de la escala decimal.
+
 Los números, pues, constituyen la mayor aproximación a la Realidad
 que se revela en este sistema. Así, por ejemplo, el número 4 no es precisa-
 mente el resultado de añadir uno a tres, de elevar dos al cuadrado, o de
 dividir ocho por dos. Es una cosa en sí misma con todo tipo de cualidades
 morales, sensorias e intelectuales. Simboliza ideas tales como Ley, Limita-
 ción, Poder, Protección y Estabilidad.
-En el sistema Qabalístico la idea original es el Cero1, que aparece bajo
+
+En el sistema Qabalístico la idea original es el Cero[1], que aparece bajo
 tres formas, a la manera de como (en la filosofía china) el Tao se manifies-
 ta poco a poco a través del Teh, o de como (en el mejor sistema hindú) el
 dios de Destrucción y Aniquilación, Shiva, se manifiesta a través de la
 Energía Infinita, Sakti. El sistema comienza por tanto con Ain —Nada—,
 Ain Soph —Sin Límite—, y Ain Spph Aur—la Luz Ilimitada—.
+
 Ahora podemos proceder a imaginar cualquier punto en esta «luz», a
 seleccionarlo para su observación; el hecho de hacerlo así lo hace Positivo.
 Esto nos da el número 1, que se llama Kether, la Corona. Los demás nú-
 meros surgen por razón de la necesidad del pensamiento de la forma que
 se explica en la tabla siguiente:
-1 La repetición que aquí hacemos con otras palabras de ideas ya expuestas en este ensayo
+
+[1] La repetición que aquí hacemos con otras palabras de ideas ya expuestas en este ensayo
 es deliberada.
-31
+
 
 ---
 
 # Página 28
 
-EL ARREGLO DE NAPOLES1
+EL ARREGLO DE NAPOLES[1]
+
 61=0.
+
 61 + 146 = 0 en cuanto que Indefinido (Espacio).
+
 61 + 146 + 207 = 0 en cuanto que base de Posible Vibración.
+
 1. El Punto: Positivo pero indefinible.
+
 2. El Punto: Distinguible de otro 1.
+
 3. El Punto: Definido por relación con otros 2.
+
 El Abismo —entre lo Ideal y lo Real.
+
 4. El Punto: Definido por 3 coordenadas: Materia.
+
 5. Movimiento (Tiempo) —Hé, el Útero; pues sólo por el Movimiento y
 en el Tiempo pueden acaecer los sucesos.
+
 6. El Punto: ahora autoconsciente, pues es capaz de definirse en los térmi-
 nos precedentes.
+
 7. La Idea del punto de Bienaventuranza (Ananda).
+
 8. La Idea del Punto de Pensamiento (Chit).
+
 9. La Idea del Punto de Ser (Sat).
+
 10. La Idea del Punto de Sí Mismo colmado en su complemento, en cuan-
 to que determinado por 7, 8 y 9.
+
 Se verá por lo anterior que mediante estos diez números positivos, pero
 no por ningún número menos, podemos llegar a una descripción positiva
 de cualquier objeto o idea.
+
 Hasta ahora, el argumento se ha erigido sobre una base rígida, matemá-
 tica, concediéndole sólo un ligerísimo tinte filosófico para darle forma.
 Pero hemos llegado a un punto en que, para describir los objetos del Pen-
@@ -1473,20 +1510,23 @@ sería prudente descartar la tradición con un desprecio absoluto, pues todo
 pensamiento está condicionado por las leyes de la mente misma, y la Men-
 te ha sido formada en cada hombre a través de miles de años de evolución
 por los pensamientos de sus antepasados. Las células de todos los cerebros
-1 Así llamado porque fue elaborado por primera vez en esta ciudad.
-32
 vivos son tanto las hijas de los grandes pensadores del pasado como el de-
 sarrollo de los órganos y miembros.
+
+[1] Así llamado porque fue elaborado por primera vez en esta ciudad.
+
 Hoy hay muy pocas personas que hayan oído hablar de Platón y Aris-
 tóteles. Ni una de entre mil, o quizá diez mil, de esas pocas personas ha
 leído jamás a ninguno de ellos, ni siquiera en traducciones. Pero cierto es
 también que hay muy pocas personas cuyo pensamiento, en cuanto tal, no
 esté condicionado por las ideas de esos dos filósofos.
+
 En el Árbol de la Vida encontramos pues el primer intento por conec-
 tar lo Ideal con lo Real. Los Qabalistas dicen, por ejemplo, que el número
 7 encierra la idea de Venus, y el número 8 la de Mercurio, que el sendero
 que conecta el 1 y el 6 se refiere a la Luna, y el que une el 3 y el 6 al Signo
 de Géminis.
+
 Entonces, en la categoría de lo Real, ¿cuál es el verdadero significado
 de estos planetas y signos? Aquí nos enfrentamos de nuevo con la imposi-
 bilidad de dar una definición exacta, pues las posibilidades de investiga-
@@ -1496,6 +1536,7 @@ ta de las imágenes. Pero, naturalmente, éste es el objetivo. Todos éstos son
 pasos a oscuras por el camino que lleva a la Gran Luz: allí donde el Uni-
 verso se percibe como uno, y, sin embargo, con todas sus partes, cada una
 de ellas necesaria y distinta.
+
 El comienzo de esta tarea es, no obstante, bastante fácil. No se precisa
 más que un conocimiento clásico elemental. Para empezar, las naturalezas
 de los planetas están definidas aproximadamente por las de los dioses de
@@ -1506,16 +1547,11 @@ Zodíaco. No hay demasiada información disponible acerca de sus natura-
 lezas; por eso será de utilidad señalar qué planeta rige a tal signo, y en qué
 signo están exaltados tales planetas. Las Estrellas Fijas individuales no tie-
 nen cabida en el sistema del Tarot.
-•
+
 EL TAROT Y EL ÁRBOL DE LA VIDA
+
 El Tarot, aunque basado en estas atribuciones teóricas, fue diseñado
 como un instrumento práctico para los cálculos Qabalísticos y la adivina-
-33
-
----
-
-# Página 29
-
 ción. En él hay poco sitio para ideas abstractas. El tema del libro —el Ta-
 rot se llama El Libro de Thoth o Tahuti— versa sobre la influencia de los
 Diez Números y las Veintidós Letras en el hombre, y sobre los mejores
@@ -1524,12 +1560,15 @@ No se mencionan por tanto los Tres Velos de lo Negativo que tratamos en
 la descripción del Árbol de la Vida. Comencemos con las «cartas meno-
 res» numeradas del 1 al 10. Estas cartas se dividen en cuatro palos, de
 acuerdo ello con los cuatro elementos.
+
 Así, el As de Varas se llama la Raíz de los Poderes del Fuego. Corres-
 ponde a Kether, y pretende representar la primera manifestación positiva
 de la idea de Fuego.
+
 El 2 corresponde a Chokmah. Pero aquí ya no tenemos la simplicidad
 de la idea de fuego. Una Idea en acción o manifestación ya no es la Idea
 pura.
+
 Esta carta está atribuida al primer Decanato de signo de fuego Aries,
 que está regido por Marte; esto nos da, pues, la idea de una fuerza violenta
 y agresiva. Por ello, esta carta se llama el Señor del Dominio. Esta degra-
@@ -1547,14 +1586,15 @@ llega a su límite. Su muerte es inminente, pero reacciona contra ésta como
 puede al manifestarse como el Señor de Opresión, impresionante por fuer-
 za, pero con las semillas de la podredumbre ya en germen. El lector puede
 aplicar fácilmente este resumen a los demás palos.
+
 Las cartas de Figura son dieciséis, cuatro para cada palo. Hay así una
 subdivisión de cada elemento en su propio sistema. Los Caballeros repre-
 sentan el elemento Fuego, de modo que el Caballero de Varas representa
 la parte ígnea de Fuego; el Caballero de Copas, la parte ígnea de Agua.
 Asimismo, las Princesas o Emperatrices representan la Tierra, de modo
-34
 que la Emperatriz de Discos (Monedas o Pentáculos) representa la parte
 terrea de Tierra.
+
 Estas cartas tienen muchas manifestaciones en los fenómenos natura-
 les. Así, el Caballero de Varas tiene la atribución de Aries, y representa la
 violencia súbita del ataque, el relámpago. Pero la parte aérea del Fuego
@@ -1562,30 +1602,41 @@ está en simpatía con Leo, la fuente firme de energía, el Sol. Finalmente, en
 la parte ácuea del Fuego, la armonía es con Sagitario, que indica el reflejo
 o translucidez debilitada y espiritualizada de la imagen del Fuego, y sugie-
 re el Arco Iris. (Véase la tabla de las Triplicidades del Zodíaco.)
-LOS ATU DE TAHUTI1
+
+LOS ATU DE TAHUTI[1]
+
 O: Las Veintidós Casas de Sabiduría,
+
 O: Los Veintidós Triunfos del Tarot.
+
 El número de letras del alfabeto hebreo es veintidós. Este es también el
 número de los Senderos del Sepher Yetzirah. Estos senderos son los que
 unen los diez números en la figura que llamamos Árbol de la Vida.
+
 ¿Por qué hay veintidós? Pues porque ése es el número de letras del alfa-
 beto hebreo, y porque a cada sendero se le asigna una letra.
+
 ¿Por qué ha de ser asi? ¿Por qué tienen que estar ordenados estos sen-
 deros en el Árbol de la forma que muestra el diagrama? ¿Por qué no tiene
 que haber senderos que unan los números 2 y 5, y 3 y 4?
+
 No podemos responder a ninguna de estas preguntas. ¿Quién sabe «Por
 qué A ordenó ser al buey, no al camello, como la G, dicen los judíos»
-(Browning)?* Lo único que sabemos es que ésta fue la ordenación conven-
+(Browning)?[*] Lo único que sabemos es que ésta fue la ordenación conven-
 cional adoptada por quienquiera que inventara el Tarot.
+
 Lo que es peor, parece muy confusa, muy engorrosa; hace vacilar nues-
 tra fe en estos grandes sabios. Pero al menos no hay duda de que es así.
+
 Las letras del alfabeto hebreo son veintidós. Hay tres Letras «Madres»
 para los Elementos, siete «Letras Dobles» para los Planetas, y doce Letras
 «Sencillas» para los Signos del Zodíaco.
-1 Atu: Casa o Clave en el antiguo egipcio. Tahuti: Dios egipcio de la Sabiduría, la Magia,
+
+[1] Atu: Casa o Clave en el antiguo egipcio. Tahuti: Dios egipcio de la Sabiduría, la Magia,
 la Ciencia y también la Ilusión. En copto, Thoth; en griego, Hermes; en latín, Mercurio. Los
 correspondientes Dioses hindú y escandinavo son formas degradadas.
-* N. del T.: Recordaremos tan sólo que Aleph significa Buey y Gimel, Camello.
+
+[*] N. del T.: Recordaremos tan sólo que Aleph significa Buey y Gimel, Camello.
 35
 
 ---
@@ -1594,6 +1645,7 @@ correspondientes Dioses hindú y escandinavo son formas degradadas.
 
 Pero hay cuatro Elementos, no tres. Y, si incluimos el elemento del Es-
 píritu (una cuestión importante para los iniciados), cinco.
+
 Hay pues dos letras del alfabeto que tienen que cumplir una función
 doble. El elemento Fuego está muy íntimamente vinculado con la idea de
 Espíritu; de modo que podemos adoptar la letra Shin, que pertenece al
@@ -1602,6 +1654,7 @@ que debe ser así, si bien sólo se aplicó en tiempos posteriores, después de
 ia introducción del dogma de que el Espíritu rige a los cuatro elementos, y
 de la formación del «Pentagrama del Salvación» relacionado con la pala-
 bra hebrea IHShVH, Yeheshuah.
+
 Respecto a la Tierra, se consideró adecuado hacer que la letra Tau, que
 pertenece a Saturno, se correspondiera también con ese Elemento.
 Estos añadidos son una clara prueba de que el Tarot dio pasos defini-
@@ -1609,6 +1662,7 @@ dos y arbitrarios para hacer valer hace unos dos mil años los nuevos descu-
 brimiencos mágicos; pues ningún sistema es más rígido que un sistema he-
 breo. Y el sistema del Sepher Yetzirah es el elemento del sistema hebreo
 que más arraigado está, el más dogmático de todos.
+
 El Tarot no se justifica por la fe, sino por las obras. Las divergencias
 respecto de la intransigente Qábalah original han sido justificadas por la
 experiencia. La cuestión (antes planteada) sobre el modo en que se han
@@ -1617,38 +1671,45 @@ revela doctrinas importantes relacionadas con las realidades de la inicia-
 ción. Debemos tener siempre presente que el Tarot no es sólo un atlas
 para registrar datos, sino un libro-guía que nos muestra el camino por es-
 tos países antes desconocidos.
+
 Los viajeros que llegan a China se quedan al principio algo desconcer-
 tados cuando se les dice que desde Yung Chang hasta Pu Peng hay 100 li,
 pero sólo 40 desde Pu Peng hata Yung Chang. La solución está en que el li
 es una medida de tiempo de marcha, no de longitud. La diferencia de
 cálculo nos revela que Pu Peng está en lo alto de la montaña.
+
 Con el Tarot sucede algo muy parecido. El 6 de Varas se refiere a Júpi-
 ter en Leo, y se llama el Señor de Victoria. Esto no sólo indica cómo es la
 victoria, sino también las condiciones que han de cumplirse para obtener
 la victoria. Se necesita la energía ígnea del palo de Varas, el equilibrio del
 número 6, la tenaz bravura de Leo, y también la influencia de Júpiter, el
 toque de suerte que inclina la balanza.
+
 Estas consideraciones son particularmente importante al tratar con los
-56
 Atu, o Triunfos. Los Planetas ya están representados en los números o
 Sephiroth del Árbol de la Vida. Pero también están atribuidos a ciertos
 Senderos.
+
 Algunos etimólogos de disposición singularmente vana han pretendido
 derivar la palabra francesa «atout» de la palabra egipcia ATU que signifi-
 ca Casa. Parece más sencillo sugerir que «atout» es una forma abreviada
 de decir «bon a tout», que significa «bueno para todo», pues casualmente
 un Triunfo gana a cualquier carta de cualquier palo.
+
 A los Atu de Tahuti, que es el Señor de Sabiduría, se les llama también
 Claves. Ellos son guías de conducta. Nos ofrecen el mapa del Reino de los
 Cielos, y también la mejor forma de tomarlo por la fuerza. Para poder re-
 solver cualquier problema mágico es necesario tener antes una compren-
 sión completa de él. El estudio y la acción desde fuera son siempre infruc-
 tuosos.
+
 Comprender este carácter extraordinariamente específico de los Triun-
 fos es de suma importancia.
+
 Decir que el Triunfo número III, titulado La Emperatriz, representa a
 Venus, significa mucho menos y al mismo tiempo mucho más que si se es-
 tudia a Venus desde un punto de vista estrictamente astrológico.
+
 Abandonamos la contemplación del todo para sacar ventajas prácticas
 de la parte. Vemos así cómo difiere la táctica de la estrategia. Un gran ge-
 neral no piensa en la guerra en abstracto, sino que limita su atención a una
@@ -1666,22 +1727,20 @@ no nos llevara a la confusión. El tendero querría saber si su cliente deseaba
 un mapa geológico, un mapa orográfico, un mapa comercial, un mapa que
 mostrara la distribución de la población, o un mapa estratégico; y así suce-
 sivamente.
-37
+
 El estudiante del Tarot no debe esperar pues encontrar algo aparte de
-
----
-
-# Página 31
-
 una cuidadosa selección de datos acerca de una carta determinada, una se-
 lección hecha para un propósito mágico y muy concreto.
+
 Sin embargo, el Tarot sí que pretende resumir, en un sólo símbolo pic-
 tórico, tantos aspectos útiles de la idea como sean posibles. Al estudiar una
 carta, no deberíamos pasar por alto ninguna atribución, pues cada clase de
 atribución modifica la forma y color de la carta, y también su utilidad.
 Este ensayo procurará incluir en la parte que describe cada carta por sepa-
 rado tantas correspondencias como sean posibles.
-LOS NÚMEROS ROMANOS DE LOS TRIUNFOS1
+
+LOS NÚMEROS ROMANOS DE LOS TRIUNFOS[1]
+
 Los Triunfos llevan números romanos para evitar confundirlos con los
 números arábigos de los Sephiroth. El que estos números vayan de 0 a
 XXI ha desconcertado a los escritores tradicionales sobre el Tarot. Ellos
@@ -1690,12 +1749,14 @@ parecen haber creído que sería acertado suponer que el 0 era el Loco, pues
 ron esto simplemente porque desconocían la doctrina secreta del Cero Qa-
 balístico. Desconocían la Matemática Elemental. No sabían que los mate-
 máticos inician la escala decimal con el Cero.
+
 Para dejar bien claro a los iniciados que ellos no comprendían el signi-
 ficado de la carta titulada El Loco, la colocaron entre las cartas XX y XXI,
 cosa que a la imaginación humana le resulta imposible entender. Consi-
 guientemente, atribuyeron la carta número 1, el Prestidigitador, a la letra
 Aleph. De esta manera simple pero ingeniosa falsearon la atribución de to-
 das las cartas excepto la XXI, El Universo.
+
 Entretanto, la atribución correcta se mantenía bien custodiada en el
 Santuario; sólo se hizo pública cuando el texto secreto confiado a los
 miembros del Grado de Practicus de la Orden Hermética de la Golden
@@ -1705,40 +1766,56 @@ en marzo y abril de 1904, e.v. Colocando la carta número 0 en su lugar
 correcto, donde la hubiera colocado cualquier matemático, las atribucio-
 nes adquieren un orden lógico que se ve confirmado por todo tipo de in-
 vestigación.
-1 Algunos párrafos de esta sección repiten, con frases ligeramente diferentes, lo que ya se
+
+[1] Algunos párrafos de esta sección repiten, con frases ligeramente diferentes, lo que ya se
 dijo en páginas anteriores. Lo hacemos deliberadamente.
-1 Los títulos antiguos de estas cartas eran respectivamente «Fuerza» y «Justicia»; ellos son
-inadecuados o engañosos.
 
----
+Había, sin embargo, un problema en la serie. La carta llamada Ajustelleva el número VIII. Y la carta que llamamos Lascivia lleva el número XI. AL mantener la secuencia natural, Lascivia tiene que atribuirse a Libra, y Ajiste a Leo[1]. Es es evidentemente erróneo, pues la carta llamada Ajuste muestra claramente a una mujer con espada y balzanza, mientras que la carta titulada Lascivia muestra a una mujer y un León. 
 
-# Página 32
+Era completamente imposible comprender por qué no se produjo esta inversión hasta los acontecimiento de marzo y abril de 1904, de los cuales se hace un informe detallado en «El Equinoccio de lso Dioses». Aquí no tenemos más que hacer una cita: «Todas estas viejas letras de mi Libro son correctas; pero no `لا` es la estrella». (AL. I, 57.) Esto confundía aun más las cosas. Estaba claro que la atribución de «La Estrella» a la letra Tzaddi no era satisfactoria; y se planetó la cuestión de encontrar otra carta que ocpara su lugar. La cantidad de trabajo para ello se llevó a cabo fue increíble; trabajo en vano. La solución llegó después de casi veinte años. 
 
-muy en profundidad por Godfrey Higgins y otros de su escuela. Aquí no es
+La Estrella representa a Nuit, los cielos estrellados. Yo soy Espacio Infinito, y sus Estrellas Infinitars». (AL. I, 22.) Ell aparece representada con dos vasijas; una deja caer agua, un símbolo de la Luz, sobre ella misma; la otra, sobre la tierra. Este es un símbolo de la Economía del Universo. Este emite constantemente energía y constantemente  la reabsorbe. Esta es la realización del Movimiento Perpetuo, que nunca es verdadero respecto a la parte, pero necesariamente cierto respecto al todo. Pues, si no fuera así, habría algo que desaparecería en la nada, lo cual es matemáticamente absurdo. El principio de Carnot (la Segunda Ley de la Termodinámica) sólo es verdadero en Ecuaciones finitas.
+
+La carta que hay que cambiar con «La Estrella» es El Emperador», el cual lleva el número IV, que significa Poder, Autoridad, ley, y está atribuido al signo Aries. Esto resulta muy satisfactorio. Pero se hizo infinitamente más satisfactorio tan pronto como se vio que esta sustitución aclaraba el otro misterio sobre Fuerza y Justicia.
+
+Pues por este cambio, Leo y Libra aparecen como si giraran alrededor de Virdo, el sexto signo del Zodíaco, el cual equilibra la revolución  de Aries y Acuario alrededor de Piscis, el signo duodécimo. Esto una referencia a un secreto particular de los antiguos que fue estudiado muy en profundidad por Godfrey Higgins y otros de su escuela. Aquí no es
 necesario extendernos más en el tema. El diagrama que se adjunta deja su-
 ficientemente clara esta argumentación*. Por primera vez, veremos ahora
 de un vistazo que hay una simetría perfecta en el Tarot.
+
+
+[1] Los títulos antiguos de estas cartas eran respectivamente «Fuerza» y «Justicia»; ellos son
+inadecuados o engañosos.
+
 El acierto del cambio es evidente cuando examinamos la etimología. Es
 lógico que la Gran Madre esté atribuida a Hé, que es la letra que le corres-
 ponde en el Tetragrammaton, mientras que la letra Tzaddi es la letra ló-
 gica del Emperador en el sistema fonético original, como lo demuestran
 las palabras Tsar, Czar, Kaiser, Caesar, Sénior, Seigneur, Señor, Signor,
 Sir.
+
 EL TAROT Y LA MAGIA
+
 La Magia es la ciencia y el arte de hacer que se produzca el cambio en
 conformidad con la Voluntad. Con otras palabras, es Ciencia, Pura y Apl-
 cada.
+
 Esta tesis ha sido desarrollada en gran medida por el Dr. Sir. J. G. Fra-
 zer. Pero en lenguaje vulgar, la palabra Magia ha sido empleada para dar a
 entender un tipo de ciencia que la gente en general no comprende. En
 este ensayo emplearemos esa palabra en este sentido limitado para la
 mayor parte.
+
 El objeto de la Ciencia es explorar la Naturaleza. Las primeras cuestio-
 nes que se plantea son: ¿Qué es esto? ¿Cómo se produjo? ¿Cuáles son sus
 relaciones con los demás objetos? El conocimiento adquirido puede utili-
 zarse después en la Ciencia Aplicada, que se pregunta: ¿Cómo podemos
 emplear mejor tal y tal cosa o idea para el propósito que nos parece justo?
+
 Puede que un ejemplo nos aclare esta exposición.
+
+[*] N. del T.: Se refiere al Anillo Doble del Zodíaco.
+
 Los griegos de la antigüedad sabían que frotando el ámbar (al que lla-
 maban Electrón) con seda, aquel adquiría la facultad de atraer objetos lige-
 ros tales como trozos pequeños de papel. Pero no fueron más allá. Su cien-
@@ -1746,8 +1823,6 @@ cia estaba amordazada por teorías teológicas y filosóficas de tipo aprioris-
 tico. Esto sucedía hace más de 2.000 años antes de que este fenómeno se
 relacionara con otros fenómenos eléctricos. La idea de Medida apenas si
 era conocida por algunos matemáticos como Arquímedes, y por los astró-
-* N. del T.: Se refiere al Anillo Doble del Zodíaco.
-40
 nomos. Los cimientos de la Ciencia, tal como la entendemos hoy, apenas
 si se pusieron hace 200 años. Se tenía una cantidad inmensa de conomien-
 to; pero casi todo él era cualitativo. La clasificación de los fenómenos de-
@@ -1757,6 +1832,7 @@ Agrippa hablaba de la «antipatía» entre el Delfín y el Remolino. Si una
 prostituta se sentaba debajo de un olivo, éste dejaría de dar fruto. Si una
 cosa se parecía a otra, participaba de alguna forma misteriosa de sus cuali-
 dades.
+
 A muchas personas de hoy les parece que esto no es más que ignoran-
 cia de clasificación, hasta donde llegó, era a veces bueno y a veces malo.
 Pero en ningún caso llegó muy lejos. La ingeniosidad innata de sus filóso-
@@ -1769,9 +1845,11 @@ por las buenas la puerta a cualquier cosa que no pueda medirse. La Vieja
 Guardia se niega a someter esto a discusión. Pero la pérdida es inmensa.
 La obsesión con las cualidades estrictamente físicas ha bloqueado todos los
 auténticos valores humanos.
+
 La ciencia del Tarot se basa enteramente en este sistema más antiguo.
 Los cálculos implicados son muy precisos; pero nunca pierden de vista lo
 Inconmensurable y lo Imponderable.
+
 La teoría del Animismo siempre estuvo presente en la mente de los
 maestros medievales. Cualquier objeto de la naturaleza no sólo poseía sus
 propias características materiales, sino que era una manifestación de una
@@ -1785,14 +1863,9 @@ mente, estaba sujeta al Regente General de los Cuatro Elementos. Esta era
 exactamente la misma idea que en el caso del agente de policía, quien tie-
 ne su sargento, inspector, superintendente y comisario, haciéndose cada
 uno de ellos cada vez más nebuloso y remoto hasta llegar al difuso Minis-
-41
-
----
-
-# Página 33
-
 tro del Interior, quien, a su vez, está al servicio de una sombra completa-
 mente intangible e incierta a la que se llama La Voluntad del Pueblo.
+
 Podemos preguntarnos hasta qué punto concebían real los antiguos a la
 personificación de estas entidades; en cualquier caso, la teoría era que aun-
 que cualquiera podía ver el estanque, no podía ver a la ninfa si no era por
@@ -1801,6 +1874,7 @@ fuerza de investigar, estudiar y experimentar, podría adquirir este poder
 general. Una persona aún más avanzada en esta ciencia podría ponerse en
 contacto directo con las formas superiores, por ser más sutiles, de Vida.
 Tal vez podría hacer que se le manifestaran en forma material.
+
 Gran parte de esto se basa en la ideología platónica, que sostenía que
 cualquier objeto material era una copia impura e imperfecta de cierta per-
 fección ideal. De modo que quienes deseaban progresar en la ciencia espi-
@@ -1813,6 +1887,7 @@ Y2 = (X + Y) (X - Y) cubre todos los casos posibles de la operación de res-
 tar el cuadrado de un número del cuadrado de otro. De modo que lo Inin-
 teligible y Abstracto, cuando se entiende, tiene mucho más sentido que lo
 Inteligible y Concreto.
+
 Estas consideraciones se aplican a las cartas del Tarot. ¿Qué significado
 tiene el Cinco de Varas? Esta carta está sujeta al Señor de Fuego porque es
 una Vara, y al Sephira Geburah porque es un Cinco. También está sujeta
@@ -1823,24 +1898,30 @@ món y hielo. Es un combinado armónico de diferentes elementos; una vez
 mezclados, forman un compuesto del que resultaría muy difícil separar los
 ingredientes; no obstante, todos los elementos son necesarios para el com-
 binado.
+
 El Cinco de Varas es pues una personalidad; su naturaleza está resumi-
 da en el Tarot con el nombre «Lucha».
+
 Esto significa que si se usa pasivamente en la adivinación, cuando apa-
 rece, decimos: «Va a haber una lucha». Si se usa activamente, significa que
 la forma más adecuada de conducta es la de la pelea, pero en esta carta
-42
 hay otra característica más. Está gobernada desde el mundo angélico por
 dos Seres, uno durante las horas del Día, y el otro durante las horas de la
 Noche. Por consiguiente, para utilizar las propiedades de esta carta, una
 de las formas es la de ponerse en contacto con la Inteligencia correspon-
 diente, e inducirla a que desempeñe su función particular. Hay pues seten-
-ta y dos «Angeles» que presiden las treinta y seis cartas menores*; estos
+ta y dos «Angeles» que presiden las treinta y seis cartas menores[*]; estos
 «Angeles» están sacados del «Gran Nombre de Dios» de setenta y dos le-
 tras al que se llama Shemhamphorasch.
+
+[*] N. del T.: Excluidos, naturalmente, los 4 Ases.
+
 EL SHEMHAMPHORASCH Y EL TAROT
+
 Esta palabra significa el Nombre Dividido. El «Nombre» es Tetragram-
 maton: I.H.V.H., llamado comúnmente Jehovah. El es el Señor Supremo
 de los Cuatro Elementos que componen básicamente todo el Universo.
+
 En el Éxodo (xiv, 19, 20, 21) hay tres versículos que contienen setenta
 y dos letras cada uno. Escribiendo el primero, y debajo de éste el siguiente
 versículo en sentido invertido, y debajo de éste el último versículo en su
@@ -1856,18 +1937,14 @@ ponernos en comunicación real con una de esas entidades para alguna fi-
 nalidad especial. Mencionamos aquí estoá temas en consideración a ser lo
 más completos posibles; sin embargo, el Tarot perderá toda su vitalidad
 para quien se descarríe por causa de su pedantería.
+
 EL TAROT Y LA MAGIA CEREMONIAL
+
 El Tarot está, pues, íntimamente vinculado con las Artes puramente
 mágicas de la Invocación y la Evocación. Por Invocación se da a enteder la
-* N. del T.: Excluidos, naturalmente, los 4 Ases.
-43
-
----
-
-# Página 34
-
 aspiración a la forma más alta y más pura de la parte de uno mismo que se
 desea poner en acción.
+
 La Evocación es mucho más objetiva. No implica una simpatía total.
 Nuestra actitud ante el Ser evocado puede ser hasta hostil, al menos super-
 ficialmente. Pero, como es natural, cuanto más avanzado está uno en la
@@ -1888,7 +1965,9 @@ naturales. Algunas espadas famosas tenían nombre, y se las consideraba
 seres vivos; eran propensas a salir volando por la ventana si el dueño ton-
 teaba demasiado con ellas en lugar de matar a personas, como es más lógi-
 co.
+
 EL TAROT Y EL ANIMISMO
+
 Es lógico pues que en una época en que las representaciones pictóricas
 o escritas de ideas no eran comprendidas más que por unos pocos, cuando
 la Escritura misma se consideraba mágica y la Imprenta (como tal) una in-
@@ -1901,9 +1980,9 @@ mados; por ejemplo, Herraduras en puertas. Hay toda una gama de supers-
 ticiones de éstas. La cuestión de cómo surgió una superstición dada no
 siempre se ha resuelto satisfactoriamente. Podemos deducir (equivocada-
 mente) la tontería de sentarse trece a la mesa del relato de la Ultima Cena
-44
 (casualmente, aquella difícilmente puede haber sido la primera vez que
 aquellos trece se sentaban a la mesa).
+
 Pero las supersticiones realmente primitivas no pueden explicarse con
 tanta facilidad. Parece más probable que surgieran de la costumbre acien-
 tífica (sumamente común entre los hombres de ciencia) de generalizar a
@@ -1917,6 +1996,7 @@ Tabú haría improbable que volviera a producirse la coincidencia original.
 Sin embargo, si ocurría algo semejante con la Luna Nueva, aparecería una
 nueva superstición; y pronto habría todo un aura de Tabú en torno a la
 Luna.
+
 Mencionemos un caso reciente. El difunto Sr. S. L. Mathers publicó en
 1898-9 la traducción de un manuscrito titulado La Magia Sagrada de
 Abramelín el Mago en una pequeña edición privada. Unos cientos de per-
@@ -1924,25 +2004,22 @@ sonas compraron el libro. Un grupo concreto de compradores según es-
 crutinio personal de Mathers sufrió en su mayor parte graves contratiem-
 pos. Al cabo de un año, la gente ya comentaba que era terriblemente peli-
 groso tener el libro en casa.
+
 ¿Habría resistido esta teoría un examen estadístico? ¿Quién lo sabe?
 Pero, curiosamente, en 1938 e.v., alguien sacó de su escondite en algún es-
 tante apartado una copia olvidada. De inmediato, la mayoría de las perso-
 nas implicadas y aquéllas con quienes tenían una relación íntima sufrieron
 toda una serie de calamidades. Post hoc propter hoc. Sin embargo, ¿quién
 puede estar seguro?
+
 LAS CARTAS DEL TAROT COMO SERES VIVOS
+
 La ciencia victoriana, alentada por su victoria sobre el Supernaturalis-
 mo, tenía toda la razón al declarar «Ilimitado» a lo Inconmensurable. Te-
 nía derecho a hacerlo sobre bases técnicas, y era una necesidad estratégica
 de su ofensiva; pero se puso tropiezos a sí misma al limitar su alcance. Se
 expuso a los más implacables ataques de la Filosofía. Después, especial-
 mente desde el punto de vista de la Física Matemática, sus propios propul-
-45
-
----
-
-# Página 35
-
 sores revelaron su dogmatismo. Hoy día, la esencia de la Ciencia es mu-
 chísimo más misteriosa que lo que lo fueron las más nebulosas especula-
 ciones de Leibnitz, Spinoza o Hegel; la definición moderna de Materia nos
@@ -1950,6 +2027,7 @@ recuerda inevitablemente la definición de Espíritu dada por místicos como
 Ruysbroeck, Boehme o Molinos. El concepto del Universo que tiene un
 matemático moderno es singularmente reminiscente de los delirios de Wi-
 lliam Blake.
+
 Pero los místicos estaban completamente equivocados cuando mante-
 nían una postura mojigata y aseguraban que sus misterios eran demasiado
 sagrados para ser analizados. Debieron haber introducido la idea de Medi-
@@ -1960,9 +2038,11 @@ los filósofos de hoy, pero no más volátiles. Sus métodos, si bien se esforza
 ron por hacerlos precisos, eran empíricos en la medida que lo permitía la
 falta de medidas exactas y aparatos de medición, pues aún no habían for-
 mulado ninguna verdadera teoría científica.
+
 Sin embargo, obtuvieron muchos éxitos. Todo dependía de la habilidad
 individual. Preferiríamos poner nuestro mal en manos del médico por na-
 turaleza que en las de los expertos de laboratorio de Battle Creek.
+
 Una de las grandes diferencias entre la Química antigua y la moderna
 es la idea de los Alquimistas de que la substancia en su estado natural es,
 de un modo u otro, una cosa viva. La tendencia moderna es insistir en lo
@@ -1980,13 +2060,13 @@ siblemente moderada por los otros veintitantos alcaloides que hay en el
 opio. El efecto embriagador del alcohol difiere según se absorba en un Ri-
 chebourg'29 o en una ginebra sintética. Un ejemplo aún más sorprendente
 lo tenemos en Venezuela, donde los mensajeros de a pie mascan hojas de
-46
 coca, cubren sus cien millas al día y duermen tranquilamente hasta recu-
 perarse del cansancio. No sufren malas reacciones ni adquieren hábito. La
 cocaína es ya una historia diferente. Los adeptos del Tarot dirían simple-
 mente: «Nosotros estamos vivos y la planta está viva, así que podemos ha-
 cernos amigos. Si primero matas la planta, ya te estás buscando proble-
 mas».
+
 Escribimos aquí todo esto en defensa del sistema de los artífices y usua-
 rios del Tarot, de sus métodos de tratar con la Naturaleza, de hacer experi-
 mentos sin precocuparse excesivamente por conseguir las cosas al momen-
@@ -1994,36 +2074,42 @@ to. Ellos solían exponer una mezcla a los rayos del sol o de la luna durante
 semanas o meses, pensando que todo se echaría a perder si la hacían hervir
 violentamente. Los procesos de la Naturaleza (decían) son lentos y mesu-
 rados; ¡copiémoslos!
+
 Puede que hayan existido fundamentos sólidos para esos puntos de vis-
 ta. La experiencia nos lleva a esa conclusión.
+
 Esto es una especie de Introducción a una tesis sumamente necesaria
 para la comprensión del Tarot. Cada carta es, en cierto sentido, un ser
 vivo; y sus relaciones con sus vecinas son lo que podríamos llamar diplo-
 máticas. Al estudiante le corresponde incorporar estas piedras vivas a su
 Templo viviente.
-4
+
 
 ---
 
 # Página 36
 
 SEGUNDA PARTE
+
 LOS ATU
+
 (CLAVES o TRIUNFOS)
 
 ---
 
 # Página 37
 
-
+Lamina
+XI Lascivia
 
 ---
 
 # Página 38
 
 II
-I
-0. EL LOCO1
+
+0. EL LOCO[1]
+
 Esta carta está atribuida a la letra Aleph, que significa Buey; pero por
 su forma, la letra hebrea (según se dice) representa la reja de un arado; de
 modo que la significación es básicamente Fálica. Es la primera de las tres
